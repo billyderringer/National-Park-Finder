@@ -14,7 +14,8 @@ class StateSelector extends Component {
             <div>
 
                 <select id="location" value={this.props.location} onChange={this.handleChange.bind(this)}
-                        style={{backgroundColor:'rgba(255,255,255,.75)',color:'grey'}}>
+                        style={{backgroundColor:this.props.style.colors.opaqueWhite,
+                            color:this.props.style.colors.lightGrey}}>
                     <option label="Choose State" value="Choose State">Choose State</option>
                     <option label="Alabama" value="Alabama">Alabama</option>
                     <option label="Alaska" value="Alaska">Alaska</option>
