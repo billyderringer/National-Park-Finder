@@ -6,7 +6,8 @@ class CheckBox extends Component{
         return(
             <div>
                 <input type="checkbox" id={this.props.id}/>
-                <label style={{color:this.props.style.colors.offWhite,paddingLeft:'5px'}} htmlFor={this.props.id}>{label}</label>
+                <label style={{color:this.props.style.colors.offWhite,paddingLeft:'5px',fontSize:'.8em'}}
+                       htmlFor={this.props.id}>{label}</label>
             </div>
         );
     };
