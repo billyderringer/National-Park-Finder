@@ -23,8 +23,8 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App container-fluid">
-        <div className="text-center" style={{height:'25vh'}}>
+      <div className="App container-fluid" style={{height:'100vh'}}>
+        <div className="text-center">
             <CompassIcon style={{margin: '30px 0 10px'}} width="60px" height="60px" color={styles.colors.white}/>
             <h1 style={{fontVariant:'small-caps',color:styles.colors.white,fontSize:'1.75em'}}>Find Your Adventure</h1>
             <h2 style={{color:styles.colors.white,fontSize:'1em'}}>U.S. National Parks Finder</h2>
@@ -34,8 +34,8 @@ class App extends Component {
         </div>
 
         <div className="row">
-            <div className="col-12 text-center" style={{marginTop:'20px'}}>
-                <a href="http://billyderringer.com" style={{color:styles.colors.white}}>Back to Portfolio</a>
+            <div className="col-12 text-center" style={{}}>
+                <a href="http://billyderringer.com" target="_blank" style={{color:styles.colors.white}}>Back to Portfolio</a>
             </div>
         </div>
       </div>

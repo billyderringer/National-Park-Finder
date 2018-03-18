@@ -49,6 +49,35 @@ class Filters extends Component{
                                 <CheckBox style={this.props.style} id="caving" label="Caving"/>
                                 <CheckBox style={this.props.style} id="climbing" label="Climbing"/>
                                 <CheckBox style={this.props.style} id="dog-sledding" label="Dog Sledding"/>
+                                <CheckBox style={this.props.style} id="fishing" label="Fishing"/>
+                                <CheckBox style={this.props.style} id="flying" label="Flying"/>
+                                <CheckBox style={this.props.style} id="food" label="Food"/>
+                                <CheckBox style={this.props.style} id="golfing" label="Golfing"/>
+                                <CheckBox style={this.props.style} id="guided-tours" label="Guided Tours"/>
+                                <CheckBox style={this.props.style} id="hands-on" label="Hands-On"/>
+                                <CheckBox style={this.props.style} id="hiking" label="Hiking"/>
+                                <CheckBox style={this.props.style} id="horse-trekking" label="Horse Trekking"/>
+                                <CheckBox style={this.props.style} id="hunting-and-gathering" label="Hunting & Gathering"/>
+                                <CheckBox style={this.props.style} id="ice-skating" label="Ice Skating"/>
+                                <CheckBox style={this.props.style} id="junior-ranger-program" label="Junior Ranger Program"/>
+                                <CheckBox style={this.props.style} id="living-history" label="Living History"/>
+                                <CheckBox style={this.props.style} id="museum-exhibits" label="Museum Exhibits"/>
+                                <CheckBox style={this.props.style} id="paddling" label="Paddling"/>
+                                <CheckBox style={this.props.style} id="park-film" label="Park Film"/>
+                                <CheckBox style={this.props.style} id="playground" label="Playground"/>
+                                <CheckBox style={this.props.style} id="scuba-diving" label="Scuba Diving"/>
+                                <CheckBox style={this.props.style} id="shopping" label="Shopping"/>
+                                <CheckBox style={this.props.style} id="skiing" label="Skiing"/>
+                                <CheckBox style={this.props.style} id="snorkeling" label="Snorkeling"/>
+                                <CheckBox style={this.props.style} id="snow-play" label="Snow Play"/>
+                                <CheckBox style={this.props.style} id="snowmobiling" label="Snowmobiling"/>
+                                <CheckBox style={this.props.style} id="snowshoeing" label="Snowshoeing"/>
+                                <CheckBox style={this.props.style} id="surfing" label="Surfing"/>
+                                <CheckBox style={this.props.style} id="swimming" label="Swimming"/>
+                                <CheckBox style={this.props.style} id="team-sports" label="Team Sports"/>
+                                <CheckBox style={this.props.style} id="tubing" label="Tubing"/>
+                                <CheckBox style={this.props.style} id="water-skiing" label="Water Skiing"/>
+                                <CheckBox style={this.props.style} id="wildlife-watching" label="Wildlife Watching"/>
                             </div>
                         </div>
                     </div>
