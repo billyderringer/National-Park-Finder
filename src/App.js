@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import CompassIcon from './components/compassIcon';
 import './App.css';
 import Content from "./components/content";
-import StateSelector from "./components/stateSelector";
 
 let styles = {
     colors: {

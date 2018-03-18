@@ -1,10 +1,17 @@
 import React, {Component} from 'react';
+import './result.css';
 
 class Result extends Component{
     render(){
         return(
-            <div style={{width:'150px', height:'150px', backgroundColor:'red',margin:'10px'}}>
-                <h5 className="text-center">Grand Teton<br/>National Park</h5>
+            <div className="park-image row" style={{width:'150px', height:'150px',
+                margin:'10px',display:'flex',justifyContent:'center',alignItems:'center'}}>
+                <div className="col-12 text-center">
+                    <h6>Grand Teton National Park</h6>
+                </div>
+                <div className="col-12 text-center">
+                    <h6 style={{fontSize:'.9em'}}>Wyoming</h6>
+                </div>
             </div>
         );
     }

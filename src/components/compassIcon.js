@@ -1,9 +1,6 @@
 import React, {Component} from 'react';
 
 class CompassIcon extends Component {
-    constructor(props){
-        super(props);
-    }
     render() {
         return (
             <svg style={this.props.style} xmlns="http://www.w3.org/2000/svg" width={this.props.width} height={this.props.height}
