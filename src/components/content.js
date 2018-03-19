@@ -3,7 +3,7 @@ import Filters from "./filters";
 import ResultsContainer from './resultsContainer';
 
 let flex = {
-    mainFlex:{
+    mainFlex: {
         flex: 1,
         display: 'flex',
         flexDirection: 'column'
@@ -96,11 +96,11 @@ let fakeServerData = {
             location: 'California',
             imgUrl: 'https://www.nationalparks.org/sites/default/files/styles/wide_1x/public/Alcatraz_iStock_000012379929.jpg?itok=qdTPVtmf'
         }
-            ]
+    ]
 }
 
 class Content extends Component {
-    constructor(){
+    constructor() {
         super();
         this.state = {
             serverData: fakeServerData
@@ -108,8 +108,10 @@ class Content extends Component {
     }
 
 
-    componentDidMount(){
-        this.setState({serverData: fakeServerData});
+    componentDidMount() {
+        fetch('https://developer.nps.gov/api/v1/parks?stateCode=me&api_key=5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7',).then(res => {
+            res.json({}).then(dataLog => console.log(dataLog))
+        }).then(this.setState({serverData: fakeServerData}))
     }
 
     render() {
@@ -117,16 +119,21 @@ class Content extends Component {
         return (
             <div className="col-8 offset-2" style={{
                 backgroundColor: this.props.style.colors.opaqueBlack,
-                padding: '20px 5px 5px 20px',marginBottom:'10px'
+                padding: '20px 5px 5px 20px', marginBottom: '10px'
             }}>
                 <div className="row">
                     <div className="col-3">
                         <Filters flex={flex} style={this.props.style}/>
                     </div>
                     <div className="col-9">
-                        <h2 style={{color:this.props.style.colors.white, fontSize:'1em',margin:'50px 20px 30px 0',float:'right'}}>
+                        <h2 style={{
+                            color: this.props.style.colors.white,
+                            fontSize: '1em',
+                            margin: '50px 20px 30px 0',
+                            float: 'right'
+                        }}>
                             {this.state.serverData.parks && this.state.serverData.parks.length} Results Found</h2>
-                        <ResultsContainer data={this.state.serverData.parks} style={this.props.style}/>
+                        <ResultsContainer parks={this.state.serverData.parks} style={this.props.style}/>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@ class ResultsContainer extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            data: this.props.data
+            data: this.props.parks
         }
     }
 
@@ -15,8 +15,8 @@ class ResultsContainer extends Component {
                 display: 'flex', flexDirection: 'row', flexWrap: 'wrap',
                 justifyContent: 'center', overflowY: 'auto', height: '40vh', width: '100%'
             }}>
-                {this.state.data.map(park =>
-                    <Result name={park.name} type={park.type} location={park.location}
+                {this.state.data.map((park,i) =>
+                    <Result name={park.name} key={i} type={park.type} location={park.location}
                             img={park.imgUrl} style={this.props.style}/>
                 )
                 }
