@@ -2,10 +2,7 @@ import React, {Component} from 'react';
 import Result from './result';
 
 class ResultsContainer extends Component {
-    constructor(props) {
-        super(props);
-    }
-    
+
     render() {
         return (
             <div style={{

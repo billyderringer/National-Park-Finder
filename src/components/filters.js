@@ -6,12 +6,12 @@ class Filters extends Component{
     constructor(props) {
         super(props);
         this.state = {
-            location: 'All States',
+            location : '',
         };
     }
 
-    changeLocation(location) {
-        this.setState({location: location});
+    liftLocationChange({target}){
+        this.props.handleChangeLocation(target.value)
     }
 
     render(){
@@ -22,9 +22,9 @@ class Filters extends Component{
                         fontSize: '.8em', color: this.props.style.colors.offWhite,
                         marginBottom: '30px'
                     }}>Filters:</h3>
-                    <StateSelector style={this.props.style}
-                                   handleChangeLocation={this.changeLocation.bind(this)}
-                                   location={this.state.location}/>
+                    <StateSelector style={this.props.style} onChange={this.liftLocationChange.bind(this)}
+                                   handleChangeLocation={this.props.handleChangeLocation}
+                                   location={this.state.location} />
                 </div>
                 <div className="col-12">
                     <div className="content" style={this.props.flex.contentFlex}>
