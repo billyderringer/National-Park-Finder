@@ -103,15 +103,13 @@ class Content extends Component {
     constructor() {
         super();
         this.state = {
-            serverData: fakeServerData
+            serverData: {parks:[]}
         }
     }
 
-
-    componentDidMount() {
-        fetch('https://developer.nps.gov/api/v1/parks?stateCode=me&api_key=5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7',).then(res => {
-            res.json({}).then(dataLog => console.log(dataLog))
-        }).then(this.setState({serverData: fakeServerData}))
+    componentWillMount() {
+        fetch('https://developer.nps.gov/api/v1/parks?stateCode=il&api_key=5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7').then(res =>
+        res.json()).then(dataRes => {this.setState({serverData: {parks: dataRes.data}})})
     }
 
     render() {
@@ -132,6 +130,7 @@ class Content extends Component {
                             margin: '50px 20px 30px 0',
                             float: 'right'
                         }}>
+                            {console.log(this.state.serverData.parks)}
                             {this.state.serverData.parks && this.state.serverData.parks.length} Results Found</h2>
                         <ResultsContainer parks={this.state.serverData.parks} style={this.props.style}/>
                     </div>

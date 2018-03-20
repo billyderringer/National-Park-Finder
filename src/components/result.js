@@ -13,8 +13,7 @@ class Result extends Component{
                 <div className="col-12" style={{backgroundColor:this.props.style.colors.opaqueWhite,
                     color:this.props.style.colors.darkGrey,padding:'10px',
                     position:'absolute',bottom:'0',alignItems:'center'}}>
-                    <h6 style={{fontSize:'.85em',margin:'0'}}>{this.props.type}</h6>
-                    <h6 style={{fontSize:'.7em',margin:'0'}}>{this.props.location}</h6>
+                    <h6 style={{fontSize:'.7em',margin:'0',overflowWrap:'break-word'}}>{this.props.location}</h6>
                 </div>
             </div>
         );
