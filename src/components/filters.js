@@ -3,12 +3,7 @@ import CheckBox from "./checkbox";
 import StateSelector from './stateSelector'
 
 class Filters extends Component{
-    constructor(props) {
-        super(props);
-        this.state = {
-            location : '',
-        };
-    }
+
 
     liftLocationChange({target}){
         this.props.handleChangeLocation(target.value)
@@ -24,7 +19,7 @@ class Filters extends Component{
                     }}>Filters:</h3>
                     <StateSelector style={this.props.style} onChange={this.liftLocationChange.bind(this)}
                                    handleChangeLocation={this.props.handleChangeLocation}
-                                   location={this.state.location} />
+                                   location={this.props.location} />
                 </div>
                 <div className="col-12">
                     <div className="content" style={this.props.flex.contentFlex}>
