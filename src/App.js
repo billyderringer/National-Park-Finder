@@ -35,7 +35,8 @@ class App extends Component {
 
         <div className="row">
             <div className="col-12 text-center" style={{}}>
-                <a href="http://billyderringer.com" target="_blank" rel="noopener noreferrer" style={{color:styles.colors.white}}>Back to Portfolio</a>
+                <cite style={{color:styles.colors.white, fontSize:'.7em'}}>
+                    Images by <a href="https://www.nps.gov" target="_blank" rel="noopener noreferrer">NPS.GOV</a></cite>
             </div>
         </div>
       </div>
