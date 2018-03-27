@@ -14,7 +14,7 @@ class StateSelector extends Component {
                         onChange={this.handleChange.bind(this)}
                         style={{backgroundColor:this.props.style.colors.opaqueWhite,
                             color:this.props.style.colors.darkGrey}}>
-                    <option label="States" value="All States">All States</option>
+                    <option label="States" value="STATES">All States</option>
                     <option label="Alabama" value="AL">Alabama</option>
                     <option label="Alaska" value="AK">Alaska</option>
                     <option label="Arizona" value="AZ">Arizona</option>

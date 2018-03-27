@@ -4,8 +4,8 @@ import './result.css';
 class Result extends Component{
     render(){
         return(
-            <div className="row" style={{width:'150px', height:'150px',
-                background:"linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)), url("+this.props.img+")0% 0% / auto 150px no-repeat",
+            <div className="row" style={{width:'200px', height:'200px',
+                background:"linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)), url("+this.props.img+")0% 0% / auto 200px no-repeat",
                 backgroundSize:'100% 100%',backgroundRepeat:'no-repeat',position:'relative',margin:'10px',paddingTop:'30px'}}>
                 <div className="col-12 text-center" style={{color:this.props.style.colors.white}}>
                     <h5 style={{fontSize:'1em'}}>{this.props.name}</h5>
