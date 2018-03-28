@@ -6,7 +6,7 @@ class ResultsContainer extends Component {
     render() {
 
         return (
-            <div style={{
+            <div className="d-flex" style={{
                 display: 'flex', flexDirection: 'row', flexWrap: 'wrap',
                 justifyContent: 'center', overflowY: 'auto', height: '60vh', minWidth: '100%'
             }}>

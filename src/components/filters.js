@@ -25,8 +25,7 @@ class Filters extends Component {
                     <h2 style={{color: this.props.style.colors.white, fontSize: '.9em'}}>U.S. National Parks
                         Finder</h2>
                 </div>
-                <div className="col-12" style={{display:'flex',alignItems:'center',
-                    justifyContent:'center'}}>
+                <div className="col-12 d-flex align-items-center justify-content-center">
                     <StateSelector style={this.props.style} onChange={this.liftLocationChange.bind(this)}
                                    handleChangeLocation={this.props.handleChangeLocation}
                                    location={this.props.location}/>

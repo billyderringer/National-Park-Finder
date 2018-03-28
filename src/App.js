@@ -27,7 +27,7 @@ class App extends Component {
                 parks: [],
                 thumbnail: ''
             },
-            location: 'AL',
+            location: 'FL',
             data: false
         }
 
@@ -36,7 +36,7 @@ class App extends Component {
     componentDidMount() {
         setTimeout(() =>
                 this.fetchData(this.state.location)
-            , 2000)
+            , 1500)
     }
 
     fetchData(data) {
@@ -58,11 +58,12 @@ class App extends Component {
         return (
             <div>
                 {this.state.data ?
-                    <div className="App container-fluid" style={{height: '100vh',minWidth:'100%', paddingTop:'50px',
+                    <div className="App container-fluid" style={{height: '100vh',minWidth:'100vw', paddingTop:'50px',
                     background:'url('+splash+') 0% 0% / 100% 100% no-repeat',backgroundSize:'cover'}}>
-                        <div className="row" style={{display:'flex',justifyContent:'center',
-                            alignItems:'center'}}>
-                            <div className="col-12">
+                        <div className="row">
+                            <div className="col-10 offset-1" style={{
+                                backgroundColor: styles.colors.opaqueBlack,
+                                padding: '20px 5px 5px 20px', marginBottom: '10px'}}>
                                 <Content style={styles} serverData={this.state.serverData}
                                          handleChangeLocation={this.changeLocation.bind(this)}
                                          location={this.state.location}/>
