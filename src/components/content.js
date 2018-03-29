@@ -1093,42 +1093,42 @@ let thumbnails = {
             parks: [
                 {
                     'attr': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/akr/homepage/4476B039-1DD8-B71B-0BE95B682A3E8D31.jpg'}
                     }
                 },
                 {
                     'cari': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/054B4CBE-1DD8-B71B-0B4ECAC54AD7EE44.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'crha': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/akr/homepage/BB5F3C7E-1DD8-B71B-0BD342527BF7D880.jpg'}
                     }
                 },
                 {
                     'elte': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/579FB6BB-1DD8-B71B-0B6B1DAC907E0DB5.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'jela': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/CAEE2A00-1DD8-B71B-0BC014AA0D1D9B03.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'jazz': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/CB490723-1DD8-B71B-0B46F52194599E59.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'popo': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mound_A_at_Poverty_Point.jpg/640px-Mound_A_at_Poverty_Point.jpg'}
                     }
                 },
                 {
                     'vick': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vicksburg_National_Military_Park.jpg/640px-Vicksburg_National_Military_Park.jpg'}
                     }
                 }
             ]
@@ -1137,32 +1137,32 @@ let thumbnails = {
             parks: [
                 {
                     'acad': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/acad/planyourvisit/images/Kent_Bass-Harbor.jpg'}
                     }
                 },
                 {
                     'appa': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'kaww': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/9/8382/29189786752_1095752304_b.jpg'}
                     }
                 },
                 {
                     'maac': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/1C397EBE-155D-451F-678E46805DA48EB4/proxy/hires/'}
                     }
                 },
                 {
                     'roca': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/CE79CC35-1DD8-B71B-0B16B1ACC82FA7BD.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'sacr': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/265ACB51-1DD8-B71B-0BCDBE4BE3A30431.jpg?width=307&quality=90&mode=crop'}
                     }
                 }
             ]
@@ -1171,152 +1171,152 @@ let thumbnails = {
             parks: [
                 {
                     'anti': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Antietam_National_Battlefield_Memorial_-_memorial_%28Bloodylane%29_17.JPG/640px-Antietam_National_Battlefield_Memorial_-_memorial_%28Bloodylane%29_17.JPG'}
                     }
                 },
                 {
                     'appa': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'asis': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wild_ponies_on_Assateague_Island_National_Seashore_by_Bonnie_Gruenberg.jpg/1024px-Wild_ponies_on_Assateague_Island_National_Seashore_by_Bonnie_Gruenberg.jpg'}
                     }
                 },
                 {
                     'balt': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/31E2A3B2-1DD8-B71B-0B72C3C9A8246EBA.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'bawa': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/80645.jpg'}
                     }
                 },
                 {
                     'cajo': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B33B9F02-1DD8-B71B-0B699BA0628152F2.JPG?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'cato': {
-                        images: {url: 'https://www.nps.gov/dena/planyourvisit/images/Denali_EM_03.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/8CF12F81-1DD8-B71B-0BD378C6E2E81133.JPG?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'choh': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FE6863E0-1DD8-B71B-0B4E9A34F681735C.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/78EDA4E3-1DD8-B71B-0B3A5CCE6AF82EEB/proxy/hires/'}
                     }
                 },
                 {
                     'cbpo': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/5160B968-1DD8-B71B-0B605DAFABB84CBF.jpg?width=307&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
                     }
                 },
                 {
                     'cbgn': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop1_1/C2A500E0-1DD8-B71B-0BB496B34A45EA70.jpg?width=150&mode=crop&quality=90'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/AB5DD0B4-1DD8-B71B-0B5942401DD0B7D1.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'cwdw': {
-                        images: {url: 'https://www.nps.gov/common/uploads/structured_data/3C7A32DB-1DD8-B71B-0B37F66E9D0832AF.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ncr/homepage/222BF6B8-1DD8-B71B-0B3D86CE9D4123C2.jpg'}
                     }
                 },
                 {
                     'clba': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/CD22352B-1DD8-B71B-0BC867B506B4AF1C.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/66D9D481-1DD8-B71B-0B9F5F30DB11398E.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'fofo': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/77491BBF-1DD8-B71B-0BDFAFFAA560A56F.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/F89191FF-1DD8-B71B-0BBF7484BA87EBE1.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'fomc': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6CF4FA58-1DD8-B71B-0BEBB8C9680A2589.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/09A9EFF2-1DD8-B71B-0BD12D872591C092.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'fowa': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3F64F4C4-1DD8-B71B-0B168E05C9966BCC.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ncr/homepage/5162A9E7-1DD8-B71B-0BAA3221115AE13C.jpg'}
                     }
                 },
                 {
                     'gwmp': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/C1889703-1DD8-B71B-0B26EBC0A3CD3754.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/C6DECA25-1DD8-B71B-0BF3692898D6F971.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'glec': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/331647AF-1DD8-B71C-070A844A8F3BA10F/proxy/hires/'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/6B631FA6-1DD8-B71B-0B282108581B0801.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'gree': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/B0B670E4-1DD8-B71B-0B5C986C85055926.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/12E01D55-1DD8-B71B-0B25D929EA605272.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'hamp': {
-                        images: {url: 'https://drive.google.com/uc?id=18DtZrTwL5d5dYTfj49fROP9Z7SC8aOCU'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/25E4AF16-1DD8-B71B-0B7874C995F36BDE.JPG'}
                     }
                 },
                 {
                     'haha': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FBEB4E20-1DD8-B71B-0B5C1720B823BCE0.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/978B3051-1DD8-B71B-0B0F10088A74687B.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'hafe': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3F64F4C4-1DD8-B71B-0B168E05C9966BCC.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/hafe/learn/news/images/for-web-MillsH_HAFE_LoudonHeights_20141017_07Edit-JPEG.JPG'}
                     }
                 },
                 {
                     'hatu': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/C1889703-1DD8-B71B-0B26EBC0A3CD3754.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/822F674C-1DD8-B71B-0B9CF4B0B0F0969D.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'jthg': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/331647AF-1DD8-B71C-070A844A8F3BA10F/proxy/hires/'}
+                        images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
                     }
                 },
                 {
                     'mono': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/B0B670E4-1DD8-B71B-0B5C986C85055926.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/DEFC4502-1DD8-B71B-0B46E64DF0033DB9.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'oxhi': {
-                        images: {url: 'https://drive.google.com/uc?id=18DtZrTwL5d5dYTfj49fROP9Z7SC8aOCU'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20161118/articles/B4800A20-1DD8-B71B-0B7C192971F84877/B4800A20-1DD8-B71B-0B7C192971F84877.jpg'}
                     }
                 },
                 {
                     'pisc': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FBEB4E20-1DD8-B71B-0B5C1720B823BCE0.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/d/d6/Piscataway_park.jpg'}
                     }
                 },
                 {
                     'pohe': {
-                        images: {url: 'https://drive.google.com/uc?id=18DtZrTwL5d5dYTfj49fROP9Z7SC8aOCU'}
+                        images: {url: 'https://c1.staticflickr.com/8/7487/27579412244_de8ea643b0_b.jpg'}
                     }
                 },
                 {
                     'stsp': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FBEB4E20-1DD8-B71B-0B5C1720B823BCE0.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/places/images/nri/20140923/siteadmin/6906BEC1-F10B-A7B1-C20ACFB1C7016293/6906BEC1-F10B-A7B1-C20ACFB1C7016293.jpg'}
                     }
                 },
                 {
                     'thst': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3F64F4C4-1DD8-B71B-0B168E05C9966BCC.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Thomas_Stone_National_Historic_Site_2009_2.jpg/640px-Thomas_Stone_National_Historic_Site_2009_2.jpg'}
                     }
                 },
                 {
                     'waro': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/C1889703-1DD8-B71B-0B26EBC0A3CD3754.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/8F96B982-1DD8-B71B-0B7907531084E975.jpg?width=950&quality=90&mode=crop'}
                     }
                 }
             ]
@@ -1325,107 +1325,107 @@ let thumbnails = {
             parks: [
                 {
                     'adam': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/80447.jpg'}
                     }
                 },
                 {
                     'appa': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'blrv': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/5/51/SlaterMill.JPG'}
                     }
                 },
                 {
                     'boaf': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/F9966F2B-1DD8-B71B-0BBA87B613A8E77C.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'boha': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20161021/articles/0CF2B504-1DD8-B71B-0B0873137A7EE970/0CF2B504-1DD8-B71B-0B0873137A7EE970.jpg'}
                     }
                 },
                 {
                     'bost': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/F9966F2B-1DD8-B71B-0BBA87B613A8E77C.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'caco': {
-                        images: {url: 'https://www.nps.gov/dena/planyourvisit/images/Denali_EM_03.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cape_Cod_National_Seashore_near_Wellfleet%2C_MA_%284751531063%29.jpg/1024px-Cape_Cod_National_Seashore_near_Wellfleet%2C_MA_%284751531063%29.jpg'}
                     }
                 },
                 {
                     'esse': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FE6863E0-1DD8-B71B-0B4E9A34F681735C.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/FE6F7C1F-1DD8-B71B-0BF976A12C5BB75C.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'frla': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/5160B968-1DD8-B71B-0B605DAFABB84CBF.jpg?width=307&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frederick_Law_Olmsted_National_Historical_Site%2C_August_2005.JPG/1005px-Frederick_Law_Olmsted_National_Historical_Site%2C_August_2005.JPG'}
                     }
                 },
                 {
                     'jofi': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop1_1/C2A500E0-1DD8-B71B-0BB496B34A45EA70.jpg?width=150&mode=crop&quality=90'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/A9F14560-1DD8-B71B-0B965325CDDA5399.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'blac': {
-                        images: {url: 'https://www.nps.gov/common/uploads/structured_data/3C7A32DB-1DD8-B71B-0B37F66E9D0832AF.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B95E3C31-1DD8-B71B-0B79633091402BF0.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'long': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/CD22352B-1DD8-B71B-0BC867B506B4AF1C.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WIKI_-_WASH_HSE.jpg/1024px-WIKI_-_WASH_HSE.jpg'}
                     }
                 },
                 {
                     'lowe': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/77491BBF-1DD8-B71B-0BDFAFFAA560A56F.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/C815BBE7-1DD8-B71B-0B5C3C06FCEEA91F.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'mima': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6CF4FA58-1DD8-B71B-0BEBB8C9680A2589.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/DD80C8BA-1DD8-B71B-0B2F51BB0E0345F4.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'nebe': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3F64F4C4-1DD8-B71B-0B168E05C9966BCC.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/New_Bedford_Whaling_National_Historical_Dover_St_2006.jpg/1024px-New_Bedford_Whaling_National_Historical_Dover_St_2006.jpg'}
                     }
                 },
                 {
                     'neen': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/C1889703-1DD8-B71B-0B26EBC0A3CD3754.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/4FB5EB24-1DD8-B71B-0B761A2EC456D27D.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'sama': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/331647AF-1DD8-B71C-070A844A8F3BA10F/proxy/hires/'}
+                        images: {url: 'https://www.nps.gov/common/uploads/places/images/nri/20140902/siteadmin/26401C55-A317-B92A-4A219603101379C0/26401C55-A317-B92A-4A219603101379C0.jpg'}
                     }
                 },
                 {
                     'sair': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/B0B670E4-1DD8-B71B-0B5C986C85055926.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/F4188B35-1DD8-B71B-0B1D0A1D59FBDD37.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'spar': {
-                        images: {url: 'https://drive.google.com/uc?id=18DtZrTwL5d5dYTfj49fROP9Z7SC8aOCU'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/5960AA6C-1DD8-B71B-0BC981A162F2D83F.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'qush': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FBEB4E20-1DD8-B71B-0B5C1720B823BCE0.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/76FCD872-1DD8-B71B-0B3067681A42674E.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'waro': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3F64F4C4-1DD8-B71B-0B168E05C9966BCC.jpg?width=150&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/8F96B982-1DD8-B71B-0B7907531084E975.jpg?width=950&quality=90&mode=crop'}
                     }
                 }
             ]
@@ -1434,37 +1434,37 @@ let thumbnails = {
             parks: [
                 {
                     'isro': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rock_Harbor_Lighthouse_at_Isle_Royale_National_park.jpg/1024px-Rock_Harbor_Lighthouse_at_Isle_Royale_National_park.jpg'}
                     }
                 },
                 {
                     'kewe': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/kewe/planyourvisit/images/Ontonagon-Lighthouse-view-2_1.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'auto': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/2843EBF5-1DD8-B71B-0B236681AE3BF79E.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'noco': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/North_Country_National_Scenic_Trail.jpg/1024px-North_Country_National_Scenic_Trail.jpg'}
                     }
                 },
                 {
                     'piro': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gfp-michigan-pictured-rocks-national-lakeshore-bay-around-of-miners-castle.jpg/1024px-Gfp-michigan-pictured-rocks-national-lakeshore-bay-around-of-miners-castle.jpg'}
                     }
                 },
                 {
                     'rira': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/82244.jpg'}
                     }
                 },
                 {
                     'slbe': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/2/1081/4727264327_88982f1e13_b.jpg'}
                     }
                 }
             ]
@@ -1473,32 +1473,32 @@ let thumbnails = {
             parks: [
                 {
                     'grpo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grand_Portage_National_Monument_from_Mount_Rose.jpg/640px-Grand_Portage_National_Monument_from_Mount_Rose.jpg'}
                     }
                 },
                 {
                     'miss': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/81804.jpg'}
                     }
                 },
                 {
                     'noco': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/North_Country_National_Scenic_Trail.jpg/1024px-North_Country_National_Scenic_Trail.jpg'}
                     }
                 },
                 {
                     'pipe': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Oracle_%28Rock_formation_in_Pipestone_National_Monument%29.jpg/337px-The_Oracle_%28Rock_formation_in_Pipestone_National_Monument%29.jpg'}
                     }
                 },
                 {
                     'sacn': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82283.jpg'}
                     }
                 },
                 {
                     'voya': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Voyageurs_National_Park.jpg'}
                     }
                 }
             ]
@@ -1507,57 +1507,57 @@ let thumbnails = {
             parks: [
                 {
                     'brcr': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/brcr/planyourvisit/images/BRCR-6-20-06-010-for-web.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'guis': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Gulf_Islands_NS.jpg'}
                     }
                 },
                 {
                     'mide': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://toxics.usgs.gov/photo_gallery/photos/hypoxia/missdelta_etm_2001288_lrg_crop_m.jpg'}
                     }
                 },
                 {
                     'migu': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/79E57940-1DD8-B71B-0B1B85148176C364.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'mihi': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/akr/homepage/846B5999-1DD8-B71B-0B6085ACE2FFA6FF.jpg'}
                     }
                 },
                 {
                     'natc': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/D6119991-1DD8-B71B-0BBD280042C2CB66.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'natt': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/natr/planyourvisit/images/Riding_the_NATT_200x285.jpg?width=150'}
                     }
                 },
                 {
                     'natr': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://drive.google.com/uc?id=10MKxjVbEtVR2k4pvA_Qo6XKaWoLHTwoT'}
                     }
                 },
                 {
                     'shil': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/shil/learn/news/images/cemetery-wall-and-flag-NPS-Photo-Mekow.jpg'}
                     }
                 },
                 {
                     'tupe': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82491.jpg'}
                     }
                 },
                 {
                     'vick': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vicksburg_National_Military_Park.jpg/640px-Vicksburg_National_Military_Park.jpg'}
                     }
                 }
             ]
@@ -1566,62 +1566,62 @@ let thumbnails = {
             parks: [
                 {
                     'cali': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
                     }
                 },
                 {
                     'jeff': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jefferson_National_Expansion_Memorial_1.jpg/640px-Jefferson_National_Expansion_Memorial_1.jpg'}
                     }
                 },
                 {
                     'gwca': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/81096.jpg'}
                     }
                 },
                 {
                     'hstr': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Historic_Marker_P5300329_Harry_Truman_house.JPG/640px-Historic_Marker_P5300329_Harry_Truman_house.JPG'}
                     }
                 },
                 {
                     'lecl': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
                     }
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
                     }
                 },
                 {
                     'ozar': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/ozar/planyourvisit/images/2-rivers-2.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'poex': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
                     }
                 },
                 {
                     'safe': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/5A51E5F1-1DD8-B71B-0B1742C03F90801A.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
                     }
                 },
                 {
                     'ulsg': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/vick/learn/historyculture/images/grant-statue.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'wicr': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/House_of_the_Ray_family_at_Wilson%27s_Creek_National_Battlefield_in_SW_Missouri.jpg/1024px-House_of_the_Ray_family_at_Wilson%27s_Creek_National_Battlefield_in_SW_Missouri.jpg'}
                     }
                 }
             ]
@@ -1630,52 +1630,52 @@ let thumbnails = {
             parks: [
                 {
                     'biho': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Big-hole-national-battlefield-06022012-rogermpeterson-112_%287351660662%29.jpg/1024px-Big-hole-national-battlefield-06022012-rogermpeterson-112_%287351660662%29.jpg'}
                     }
                 },
                 {
                     'bica': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/bica/planyourvisit/images/Top_5_South_District.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'fous': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fort_Union_Trading_Post_NHS.JPG/640px-Fort_Union_Trading_Post_NHS.JPG'}
                     }
                 },
                 {
                     'glac': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2015-06-19_Glacier_National_Park_%28U.S.%29_8625.jpg/1024px-2015-06-19_Glacier_National_Park_%28U.S.%29_8625.jpg'}
                     }
                 },
                 {
                     'grko': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/grko/planyourvisit/images/Mt-Deer-Lodge-Bridge.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'iafl': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/laro/learn/nature/images/dryfalls.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'lecl': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
                     }
                 },
                 {
                     'libi': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/libi/planyourvisit/images/cemetery2_3.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'nepe': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/nepe/learn/historyculture/images/Coyote-s-Fishnet_cropped.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'yell': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/3/2941/15266522767_f84d221308_b.jpg'}
                     }
                 }
             ]

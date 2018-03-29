@@ -27,7 +27,7 @@ class App extends Component {
                 parks: [],
                 thumbnail: ''
             },
-            location: 'KY',
+            location: 'NE',
             data: false
         }
 
@@ -39,14 +39,13 @@ class App extends Component {
             , 1500)
     }
 
-    fetchData(data) {
-        fetch('https://developer.nps.gov/api/v1/parks?stateCode=' + data + '&api_key=5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7').then(res =>
+    fetchData(loc) {
+        fetch('https://developer.nps.gov/api/v1/parks?stateCode=' + loc + '&api_key=5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7').then(res =>
             res.json()).then(dataRes => {
             this.setState({
-                serverData: {parks: dataRes.data}, data: true, location: data
+                serverData: {parks: dataRes.data}, data: true, location: loc
             })
         })
-
     }
 
     changeLocation(location) {
