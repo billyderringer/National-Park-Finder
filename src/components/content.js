@@ -1684,52 +1684,52 @@ let thumbnails = {
             parks: [
                 {
                     'agfo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Agate_Fossil_Beds_National_Monument_5.jpg/640px-Agate_Fossil_Beds_National_Monument_5.jpg'}
                     }
                 },
                 {
                     'cali': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
                     }
                 },
                 {
                     'home': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/home/learn/nature/images/Picture-005.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'lecl': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
                     }
                 },
                 {
                     'mnrr': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/mnrr/learn/photosmultimedia/images/Fly-the-MNRR-webpage_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'mopi': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
                     }
                 },
                 {
                     'niob': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Niobrara_National_Scenic_River_Bluffs.jpg/640px-Niobrara_National_Scenic_River_Bluffs.jpg'}
                     }
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
                     }
                 },
                 {
                     'poex': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
                     }
                 },
                 {
                     'scbl': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Scotts_Bluff_National_Monument_%28Nebraska%29_-_Eagle_Rock_16-9-2014_17-56-19.JPG/1024px-Scotts_Bluff_National_Monument_%28Nebraska%29_-_Eagle_Rock_16-9-2014_17-56-19.JPG'}
                     }
                 }
             ]
@@ -1738,37 +1738,37 @@ let thumbnails = {
             parks: [
                 {
                     'cali': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
                     }
                 },
                 {
                     'deva': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://c1.staticflickr.com/2/1695/26116317146_e9de3c4a7e_b.jpg'}
                     }
                 },
                 {
                     'grba': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Stella_Lake_Great_Basin.jpg'}
                     }
                 },
                 {
                     'lake': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20161205/articles/28906D76-1DD8-B71B-0B7F39D20AFB9357/28906D76-1DD8-B71B-0B7F39D20AFB9357.jpg'}
                     }
                 },
                 {
                     'olsp': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
                     }
                 },
                 {
                     'poex': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
                     }
                 },
                 {
                     'tusk': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tule_Springs_Fossil_Beds_National_Monument.jpg/1024px-Tule_Springs_Fossil_Beds_National_Monument.jpg'}
                     }
                 }
             ]
@@ -1777,12 +1777,12 @@ let thumbnails = {
             parks: [
                 {
                     'appa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'saga': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Saint-Gaudens_National_Historic_Site_SAGA0537.jpg/1024px-Saint-Gaudens_National_Historic_Site_SAGA0537.jpg'}
                     }
                 }
             ]
@@ -1791,72 +1791,72 @@ let thumbnails = {
             parks: [
                 {
                     'appa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'xrds': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/313DF2F9-1DD8-B71B-0BE3927BB890F8BE.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'dela': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/nri/crop1_1/B76E43B8-1DD8-B71B-0B62C602B5B66C78.jpg?width=640&quality=90&mode=crop'}
                     }
                 },
                 {
                     'dewa': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Delaware_Water_Gap_cliffs.jpg'}
                     }
                 },
                 {
                     'elis': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/places/images/nri/20140902/siteadmin/28B468DA-A430-E361-953360F18D9853C5/28B468DA-A430-E361-953360F18D9853C5.jpg'}
                     }
                 },
                 {
                     'gate': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/gate/learn/news/images/battery-weed.jpg'}
                     }
                 },
                 {
                     'greg': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_Egg_Harbor_River_shore.jpg/1024px-Great_Egg_Harbor_River_shore.jpg'}
                     }
                 },
                 {
                     'lode': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2009-08-17_View_north_up_the_Delaware_River_from_the_Reading_Railroad_Bridge_between_Ewing%2C_New_Jersey_and_Lower_Makefield_Township%2C_Pennsylvania.jpg/640px-2009-08-17_View_north_up_the_Delaware_River_from_the_Reading_Railroad_Bridge_between_Ewing%2C_New_Jersey_and_Lower_Makefield_Township%2C_Pennsylvania.jpg'}
                     }
                 },
                 {
                     'morr': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Morristown_National_Historical_MORR3176.jpg/1024px-Morristown_National_Historical_MORR3176.jpg'}
                     }
                 },
                 {
                     'neje': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/2009-11-04_20-View_north_from_the_top_of_the_Apple_Pie_Hill_fire_tower.jpg'}
                     }
                 },
                 {
                     'pine': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/5FD52266-1DD8-B71B-0B30D414E542B2B0.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'pagr': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Paterson_Great_Falls.jpg/640px-Paterson_Great_Falls.jpg'}
                     }
                 },
                 {
                     'edis': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/images/Blog1-ThomasEdNP1_1.jpg'}
                     }
                 },
                 {
                     'waro': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/8F96B982-1DD8-B71B-0B7907531084E975.jpg?width=950&quality=90&mode=crop'}
                     }
                 }
             ]
