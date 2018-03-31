@@ -2353,52 +2353,52 @@ let thumbnails = {
             parks: [
                 {
                     'cali': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
                     }
                 },
                 {
                     'crla': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Crater_Lake_National_Park_Oregon.jpg/1024px-Crater_Lake_National_Park_Oregon.jpg'}
                     }
                 },
                 {
                     'fova': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/fova/learn/news/images/Fort-Vancouver-Garden.jpg'}
                     }
                 },
                 {
                     'iafl': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/laro/learn/nature/images/dryfalls.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'joda': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/2/1536/25164637684_e67b03e339_b.jpg'}
                     }
                 },
                 {
                     'lecl': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
                     }
                 },
                 {
                     'lewi': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lewis_and_Clark_National_Historical_Park_%28Fort_Clatsop_FOCL1525.jpg/1024px-Lewis_and_Clark_National_Historical_Park_%28Fort_Clatsop_FOCL1525.jpg'}
                     }
                 },
                 {
                     'nepe': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/nepe/learn/historyculture/images/Coyote-s-Fishnet_cropped.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'orca': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oregon_Caves_p1080458_1024.jpg/640px-Oregon_Caves_p1080458_1024.jpg'}
                     }
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
                     }
                 }
             ]
@@ -2407,157 +2407,157 @@ let thumbnails = {
             parks: [
                 {
                     'alpo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Allegheny_Portage_Railroad_National_Historic_Site_ALPO0279.jpg/1024px-Allegheny_Portage_Railroad_National_Historic_Site_ALPO0279.jpg'}
                     }
                 },
                 {
                     'appa': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'cajo': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B33B9F02-1DD8-B71B-0B699BA0628152F2.JPG?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'cbpo': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
                     }
                 },
                 {
                     'cbgn': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/AB5DD0B4-1DD8-B71B-0B5942401DD0B7D1.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'dele': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Delaware_Canal_State_Park-Pennsylvania.jpg/1024px-Delaware_Canal_State_Park-Pennsylvania.jpg'}
                     }
                 },
                 {
                     'dela': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/nri/crop1_1/B76E43B8-1DD8-B71B-0B62C602B5B66C78.jpg?width=640&quality=90&mode=crop'}
                     }
                 },
                 {
                     'dewa': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Delaware_Water_Gap_cliffs.jpg'}
                     }
                 },
                 {
                     'edal': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/edal/planyourvisit/images/EDAL-Basement-688_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'eise': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eisenhower_Farm_in_Gettysburg.JPG/1024px-Eisenhower_Farm_in_Gettysburg.JPG'}
                     }
                 },
                 {
                     'frst': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20160502/articles/79DD07C3-1DD8-B71B-0BEA6A790BA0A815/79DD07C3-1DD8-B71B-0BEA6A790BA0A815.JPG'}
                     }
                 },
                 {
                     'flni': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/flni/learn/news/images/Flight-Path-Overlook-from-the-Ground.jpg'}
                     }
                 },
                 {
                     'fone': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fort_Necessity_National_Battlefield_-_panoramio.jpg/1024px-Fort_Necessity_National_Battlefield_-_panoramio.jpg'}
                     }
                 },
                 {
                     'frhi': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/places/images/nri/20140902/siteadmin/2E47680D-B5DF-B85F-13D739A30D3A4239/2E47680D-B5DF-B85F-13D739A30D3A4239.jpg'}
                     }
                 },
                 {
                     'gett': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/gett/planyourvisit/images/IMG_6169-web.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'glde': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/glde/getinvolved/images/gloriadeicemetary688.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'hofu': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hopewell_Furnace_National_Historic_Site_-_Pennsylvania_%285655000841%29.jpg/800px-Hopewell_Furnace_National_Historic_Site_-_Pennsylvania_%285655000841%29.jpg'}
                     }
                 },
                 {
                     'inde': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/inde/planyourvisit/images/Hall-and-Wings-960-X-480_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'jofl': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JOHNSTOWN_FLOOD_NATIONAL_MEMORIAL.jpg/1024px-JOHNSTOWN_FLOOD_NATIONAL_MEMORIAL.jpg'}
                     }
                 },
                 {
                     'jthg': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
                     }
                 },
                 {
                     'lode': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2009-08-17_View_north_up_the_Delaware_River_from_the_Reading_Railroad_Bridge_between_Ewing%2C_New_Jersey_and_Lower_Makefield_Township%2C_Pennsylvania.jpg/640px-2009-08-17_View_north_up_the_Delaware_River_from_the_Reading_Railroad_Bridge_between_Ewing%2C_New_Jersey_and_Lower_Makefield_Township%2C_Pennsylvania.jpg'}
                     }
                 },
                 {
                     'noco': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/North_Country_National_Scenic_Trail.jpg/1024px-North_Country_National_Scenic_Trail.jpg'}
                     }
                 },
                 {
                     'oire': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/3DF81BA7-1DD8-B71B-0B4B6A2C79C18EE4.jpg?width=2400&height=700&mode=crop&quality=90'}
                     }
                 },
                 {
                     'pohe': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/8/7487/27579412244_de8ea643b0_b.jpg'}
                     }
                 },
                 {
                     'rist': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/60E35238-1DD8-B71B-0B9C262F1F271934.jpg?width=2400&height=700&mode=crop&quality=90'}
                     }
                 },
                 {
                     'scrv': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/68534926-1DD8-B71B-0BD61EB113F36D8A.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'stea': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Steamtown_National_Historic_Site_020.jpg/640px-Steamtown_National_Historic_Site_020.jpg'}
                     }
                 },
                 {
                     'thko': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Thaddeus_Kosciuszko_sculpture%2C_Public_Garden%2C_Boston%2C_MA_-_IMG_5481.JPG/576px-Thaddeus_Kosciuszko_sculpture%2C_Public_Garden%2C_Boston%2C_MA_-_IMG_5481.JPG'}
                     }
                 },
                 {
                     'upde': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/82513.jpg'}
                     }
                 },
                 {
                     'vafo': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Valley_Forge_National_Historical_Park%2C_Log_Cabins.JPG/640px-Valley_Forge_National_Historical_Park%2C_Log_Cabins.JPG'}
                     }
                 },
                 {
                     'waro': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/8F96B982-1DD8-B71B-0B7907531084E975.jpg?width=950&quality=90&mode=crop'}
                     }
                 }
             ]
@@ -2566,27 +2566,27 @@ let thumbnails = {
             parks: [
                 {
                     'blrv': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/5/51/SlaterMill.JPG'}
                     }
                 },
                 {
                     'blac': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B95E3C31-1DD8-B71B-0B79633091402BF0.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'rowi': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/82255.jpg'}
                     }
                 },
                 {
                     'tosy': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Touro_Synagogue_National_Historic_Site_TOSY1085.jpg/1024px-Touro_Synagogue_National_Historic_Site_TOSY1085.jpg'}
                     }
                 },
                 {
                     'waro': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/8F96B982-1DD8-B71B-0B7907531084E975.jpg?width=950&quality=90&mode=crop'}
                     }
                 }
             ]
@@ -2595,52 +2595,52 @@ let thumbnails = {
             parks: [
                 {
                     'chpi': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/chpi/planyourvisit/images/SNEE04.JPG?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'cong': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/cong/planyourvisit/images/State-Champ-Bald-Cypress.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'cowp': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Welcome_to_Cowpens_National_Battlefield%2C_South_Carolina_%285811059944%29.jpg/640px-Welcome_to_Cowpens_National_Battlefield%2C_South_Carolina_%285811059944%29.jpg'}
                     }
                 },
                 {
                     'fosu': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FORT_SUMTER_NATIONAL_MONUMENT.jpg/1024px-FORT_SUMTER_NATIONAL_MONUMENT.jpg'}
                     }
                 },
                 {
                     'guge': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3FBCE71F-1DD8-B71B-0BA0D66EBB68BC88.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'kimo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kings_Mountain_National_Military_Park_-_South_Carolina_%288558886876%29_%282%29.jpg/640px-Kings_Mountain_National_Military_Park_-_South_Carolina_%288558886876%29_%282%29.jpg'}
                     }
                 },
                 {
                     'nisi': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ninety_Six_stockade_fort_SC2.jpg/1024px-Ninety_Six_stockade_fort_SC2.jpg'}
                     }
                 },
                 {
                     'ovvi': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
                     }
                 },
                 {
                     'reer': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/924EBDC2-1DD8-B71B-0B701BF45A328F64.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'soca': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82396.jpg'}
                     }
                 }
             ]
@@ -2649,37 +2649,37 @@ let thumbnails = {
             parks: [
                 {
                     'badl': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Badlands_National_Park.jpg'}
                     }
                 },
                 {
                     'jeca': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/81510.jpg'}
                     }
                 },
                 {
                     'lecl': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
                     }
                 },
                 {
                     'mimi': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Minuteman_Missile_National_Historic_Site_silo.jpg/1024px-Minuteman_Missile_National_Historic_Site_silo.jpg'}
                     }
                 },
                 {
                     'mnrr': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/mnrr/learn/photosmultimedia/images/Fly-the-MNRR-webpage_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'moru': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/place/nri/20170201/places/D6367F17-1DD8-B71B-0BB3701ACA276A9F/D6367F17-1DD8-B71B-0BB3701ACA276A9F.jpg'}
                     }
                 },
                 {
                     'wica': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/wica/learn/news/images/Buffalo-Jump-at-Wind-Cave-Med-Res-no-line.jpg?maxwidth=650&autorotate=false'}
                     }
                 }
             ]
@@ -2688,82 +2688,82 @@ let thumbnails = {
             parks: [
                 {
                     'anjo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/80556.jpg'}
                     }
                 },
                 {
                     'appa': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'biso': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20161020/articles/E93D92F9-1DD8-B71B-0B20733E1CD3521C/E93D92F9-1DD8-B71B-0B20733E1CD3521C.jpg'}
                     }
                 },
                 {
                     'chch': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chickamauga_and_Chattanooga_National_Military_Park_35640891205.jpg/1024px-Chickamauga_and_Chattanooga_National_Military_Park_35640891205.jpg'}
                     }
                 },
                 {
                     'cuga': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/C48EF8C0-1DD8-B71B-0B1CCA8A575B0FC0.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'fodo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'grsm': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Smoky_Mountains%2C_in_Great_Smoky_Mountains_National_Park.jpg/640px-The_Smoky_Mountains%2C_in_Great_Smoky_Mountains_National_Park.jpg'}
                     }
                 },
                 {
                     'mapr': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6D0FFEC0-1DD8-B71B-0B635C4D22121B63.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'natt': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/natr/planyourvisit/images/Riding_the_NATT_200x285.jpg?width=150'}
                     }
                 },
                 {
                     'natr': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://drive.google.com/uc?id=10MKxjVbEtVR2k4pvA_Qo6XKaWoLHTwoT'}
                     }
                 },
                 {
                     'obed': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/81996.jpg'}
                     }
                 },
                 {
                     'ovvi': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
                     }
                 },
                 {
                     'shil': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/shil/learn/news/images/cemetery-wall-and-flag-NPS-Photo-Mekow.jpg'}
                     }
                 },
                 {
                     'stri': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stones_River_National_Battlefield_Murfreesboro_TN_2013-12-27_029.jpg/800px-Stones_River_National_Battlefield_Murfreesboro_TN_2013-12-27_029.jpg'}
                     }
                 },
                 {
                     'tecw': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82424.jpg'}
                     }
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
                     }
                 }
             ]
@@ -2772,82 +2772,82 @@ let thumbnails = {
             parks: [
                 {
                     'alfl': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://c1.staticflickr.com/2/1716/25877869026_f02bd9167c_b.jpg'}
                     }
                 },
                 {
                     'amis': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/4F7EA0D2-1DD8-B71B-0BC8D967C3037D71.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'bibe': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gfp-texas-big-bend-national-park-mountains-by-the-lodge.jpg/1024px-Gfp-texas-big-bend-national-park-mountains-by-the-lodge.jpg'}
                     }
                 },
                 {
                     'bith': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Trees_at_Big_Thicket_National_Preserve.jpg/1024px-Trees_at_Big_Thicket_National_Preserve.jpg'}
                     }
                 },
                 {
                     'cham': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20160831/articles/CB0FD325-1DD8-B71B-0BBC34AC2B844D44/CB0FD325-1DD8-B71B-0BBC34AC2B844D44.jpg'}
                     }
                 },
                 {
                     'elte': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/579FB6BB-1DD8-B71B-0B6B1DAC907E0DB5.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'elca': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://c1.staticflickr.com/5/4337/36695139496_59f9eee9cc_b.jpg'}
                     }
                 },
                 {
                     'foda': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fort_Davis_National_Historic_Site%2C_Texas_07.JPG/800px-Fort_Davis_National_Historic_Site%2C_Texas_07.JPG'}
                     }
                 },
                 {
                     'gumo': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/5/4572/37710649384_dab55ec2db_b.jpg'}
                     }
                 },
                 {
                     'lamr': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/81643.jpg?1516838400054'}
                     }
                 },
                 {
                     'lyjo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lyndon_B._Johnson_National_Historical_Park_LYJO1975.jpg/1024px-Lyndon_B._Johnson_National_Historical_Park_LYJO1975.jpg'}
                     }
                 },
                 {
                     'pais': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/pais/planyourvisit/images/pelicans.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'paal': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Palo_Alto_Battlefield_NHP.JPG/1024px-Palo_Alto_Battlefield_NHP.JPG'}
                     }
                 },
                 {
                     'rigr': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/-conservationlands15_Social_Media_Takeover%2C_Jan_15th%2C_Rio_Grande_Wild_and_Scenic_River_in_New_Mexico_%2816287782645%29.jpg/1024px--conservationlands15_Social_Media_Takeover%2C_Jan_15th%2C_Rio_Grande_Wild_and_Scenic_River_in_New_Mexico_%2816287782645%29.jpg'}
                     }
                 },
                 {
                     'saan': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82317.jpg'}
                     }
                 },
                 {
                     'waco': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82553.jpg'}
                     }
                 }
             ]
@@ -2856,87 +2856,87 @@ let thumbnails = {
             parks: [
                 {
                     'arch': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Skyline_Arch_at_Arches_National_Park-Unburnsky.jpg/1024px-Skyline_Arch_at_Arches_National_Park-Unburnsky.jpg'}
                     }
                 },
                 {
                     'brca': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/2/27/Hoodoos_from_the_Peekaboo_Loop_Trail_-_Bryce_Canyon_National_Park.jpg'}
                     }
                 },
                 {
                     'cali': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
                     }
                 },
                 {
                     'cany': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/8/82/Mesa_Arch_Canyonlands_National_Park.jpg'}
                     }
                 },
                 {
                     'care': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cassidy_Arch%2C_Capitol_Reef_National_Park.JPG/640px-Cassidy_Arch%2C_Capitol_Reef_National_Park.JPG'}
                     }
                 },
                 {
                     'cebr': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cedar_Breaks_National_Monument.JPG/1024px-Cedar_Breaks_National_Monument.JPG'}
                     }
                 },
                 {
                     'dino': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/80832.jpg'}
                     }
                 },
                 {
                     'glca': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/glca/learn/news/images/GLCA-Iconic-Horseshoe-Bend-on-the-Colorado-River-in-Glen-Canyon-NRA.jpg'}
                     }
                 },
                 {
                     'gosp': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/A_meeting_of_the_engines_at_the_Golden_Spike_National_Historic_Site%2C_Utah_%28angled_view%29.jpg/999px-A_meeting_of_the_engines_at_the_Golden_Spike_National_Historic_Site%2C_Utah_%28angled_view%29.jpg'}
                     }
                 },
                 {
                     'hove': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20161202/articles/8D6FD35E-1DD8-B71B-0B23EF61C353EC93/8D6FD35E-1DD8-B71B-0B23EF61C353EC93.jpg'}
                     }
                 },
                 {
                     'mopi': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
                     }
                 },
                 {
                     'nabr': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/nabr/learn/nature/images/960-pix-owachomo.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'olsp': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
                     }
                 },
                 {
                     'poex': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
                     }
                 },
                 {
                     'rabr': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/1/800/40906391281_b72159ed11_b.jpg'}
                     }
                 },
                 {
                     'tica': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heart_of_the_Cave_-_Timpanogos_Cave_National_Monument_-_Mount_Timpanogos_of_the_Wasatch_Mountains%2C_in_Utah_County%2C_Utah_-_16_June_2012.jpg/640px-Heart_of_the_Cave_-_Timpanogos_Cave_National_Monument_-_Mount_Timpanogos_of_the_Wasatch_Mountains%2C_in_Utah_County%2C_Utah_-_16_June_2012.jpg'}
                     }
                 },
                 {
                     'zion': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82797.jpg'}
                     }
                 }
             ]
@@ -2945,17 +2945,17 @@ let thumbnails = {
             parks: [
                 {
                     'appa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'chva': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Champlain_Valley_Fairgrounds_Entrance.JPG/640px-Champlain_Valley_Fairgrounds_Entrance.JPG'}
                     }
                 },
                 {
                     'mabi': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/1/20/69165512_d8702e969b_z.jpg?zz=1'}
                     }
                 }
             ]
@@ -2964,142 +2964,142 @@ let thumbnails = {
             parks: [
                 {
                     'appa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'apco': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Appomattox_Court_House_Historical_Park.jpg/640px-Appomattox_Court_House_Historical_Park.jpg'}
                     }
                 },
                 {
                     'arho': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/thingstodo/images/19351022583_10b5016a3d_o.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'asis': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wild_ponies_on_Assateague_Island_National_Seashore_by_Bonnie_Gruenberg.jpg/1024px-Wild_ponies_on_Assateague_Island_National_Seashore_by_Bonnie_Gruenberg.jpg'}
                     }
                 },
                 {
                     'blri': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/3/2041/1715794688_b9d5c9fa6d_b.jpg'}
                     }
                 },
                 {
                     'bowa': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Booker_T_Washington_National_Monument_Franklin_County_Virginia.JPG/640px-Booker_T_Washington_National_Monument_Franklin_County_Virginia.JPG'}
                     }
                 },
                 {
                     'came': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Fort_Story_lighthouses.jpg/1024px-Fort_Story_lighthouses.jpg'}
                     }
                 },
                 {
                     'cajo': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B33B9F02-1DD8-B71B-0B699BA0628152F2.JPG?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'cebe': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cedar_Creek_fence.jpg/1024px-Cedar_Creek_fence.jpg'}
                     }
                 },
                 {
                     'cbpo': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
                     }
                 },
                 {
                     'cbgn': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/AB5DD0B4-1DD8-B71B-0B5942401DD0B7D1.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'cwdw': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ncr/homepage/222BF6B8-1DD8-B71B-0B3D86CE9D4123C2.jpg'}
                     }
                 },
                 {
                     'clmo': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Claude_Moore_Colonial_Farm_Park_P1010530_%28506728151%29.jpg/800px-Claude_Moore_Colonial_Farm_Park_P1010530_%28506728151%29.jpg'}
                     }
                 },
                 {
                     'colo': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ambler_House%2C_New_Towne%2C_Colonial_National_Historical_Park%2C_Jamestown%2C_Virginia_%2814425752925%29.jpg/640px-Ambler_House%2C_New_Towne%2C_Colonial_National_Historical_Park%2C_Jamestown%2C_Virginia_%2814425752925%29.jpg'}
                     }
                 },
                 {
                     'cuga': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/C48EF8C0-1DD8-B71B-0B1CCA8A575B0FC0.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'fomr': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://ridb.recreation.gov/images/80981.jpg'}
                     }
                 },
                 {
                     'frsp': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sunken_Road_Restored_2004_Section_in_Fredericksburg_and_Spotsylvania_National_Military_Park.jpg/640px-Sunken_Road_Restored_2004_Section_in_Fredericksburg_and_Spotsylvania_National_Military_Park.jpg'}
                     }
                 },
                 {
                     'gewa': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/George_Washington_Birthplace_National_Monument%2C_Virginia_5_%282522009779%29.jpg/1024px-George_Washington_Birthplace_National_Monument%2C_Virginia_5_%282522009779%29.jpg'}
                     }
                 },
                 {
                     'gwmp': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/C6DECA25-1DD8-B71B-0BF3692898D6F971.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'grfa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/grfa/learn/nature/images/small_falls.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'grsp': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Green_Springs_from_west_bank_looking_east_2010.05.10.jpg/1024px-Green_Springs_from_west_bank_looking_east_2010.05.10.jpg'}
                     }
                 },
                 {
                     'hafe': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/hafe/learn/news/images/for-web-MillsH_HAFE_LoudonHeights_20141017_07Edit-JPEG.JPG'}
                     }
                 },
                 {
                     'jame': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Historic_Jamestowne%2C_Colonial_National_Historical_Park%2C_Jamestown%2C_Virginia_%2814239013038%29.jpg/640px-Historic_Jamestowne%2C_Colonial_National_Historical_Park%2C_Jamestown%2C_Virginia_%2814239013038%29.jpg'}
                     }
                 },
                 {
                     'jthg': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
                     }
                 },
                 {
                     'mawa': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/mawa/planyourvisit/images/exterior-image-of-row-for-hours_1.JPG?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'mana': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stonewall_Jackson_monument%2C_Manassas%2C_VA_IMG_4325.JPG/640px-Stonewall_Jackson_monument%2C_Manassas%2C_VA_IMG_4325.JPG'}
                     }
                 },
                 {
                     'ovvi': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
                     }
                 },
                 {
                     'pete': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://c2.staticflickr.com/4/3213/2729330513_475eb337c3.jpg'}
                     }
                 },
                 {
@@ -3109,42 +3109,42 @@ let thumbnails = {
                 },
                 {
                     'prwi': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Prince_William_Forest_Park_South_Valley_Trail-16.jpg'}
                     }
                 },
                 {
                     'rich': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Malvern_Hill%2C_Civil_War_Battlefield%2C_RIchmond_National_Battlefield_-_Stierch.jpg/640px-Malvern_Hill%2C_Civil_War_Battlefield%2C_RIchmond_National_Battlefield_-_Stierch.jpg'}
                     }
                 },
                 {
                     'shen': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://c1.staticflickr.com/4/3710/9600060812_4614bc4e68_b.jpg'}
                     }
                 },
                 {
                     'shvb': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Market_Battlefield_2014.jpg/1024px-New_Market_Battlefield_2014.jpg'}
                     }
                 },
                 {
                     'stsp': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/places/images/nri/20140923/siteadmin/6906BEC1-F10B-A7B1-C20ACFB1C7016293/6906BEC1-F10B-A7B1-C20ACFB1C7016293.jpg'}
                     }
                 },
                 {
                     'waro': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/8F96B982-1DD8-B71B-0B7907531084E975.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'wotr': {
-                        images: {url: 'https://www.nps.gov/bela/planyourvisit/images/imurukvolcanic.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/wotr/planyourvisit/images/meadow-1_247062_2.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'york': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/york/planyourvisit/images/cannon-R.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 }
             ]
@@ -3153,87 +3153,87 @@ let thumbnails = {
             parks: [
                 {
                     'ebla': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ferry_House_at_Ebey%27s_Landing_National_Historical_Reserve.jpg/1024px-Ferry_House_at_Ebey%27s_Landing_National_Historical_Reserve.jpg'}
                     }
                 },
                 {
                     'fova': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://www.nps.gov/fova/learn/news/images/Fort-Vancouver-Garden.jpg'}
                     }
                 },
                 {
                     'iafl': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/laro/learn/nature/images/dryfalls.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'klse': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/4/46/ChilkootPass_steps.jpg'}
                     }
                 },
                 {
                     'laro': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/81662.jpg'}
                     }
                 },
                 {
                     'lecl': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
                     }
                 },
                 {
                     'lewi': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lewis_and_Clark_National_Historical_Park_%28Fort_Clatsop_FOCL1525.jpg/1024px-Lewis_and_Clark_National_Historical_Park_%28Fort_Clatsop_FOCL1525.jpg'}
                     }
                 },
                 {
                     'mapr': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6D0FFEC0-1DD8-B71B-0B635C4D22121B63.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
                 {
                     'miin': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/A6EC2301-1DD8-B71B-0B9A51F3CABF84AB.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
                 {
                     'mora': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Governors_Ridge_seen_from_Highway_410_in_Mount_Rainier_National_Park.jpg/640px-Governors_Ridge_seen_from_Highway_410_in_Mount_Rainier_National_Park.jpg'}
                     }
                 },
                 {
                     'nepe': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/nepe/learn/historyculture/images/Coyote-s-Fishnet_cropped.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'noca': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Cascade_pass.jpg'}
                     }
                 },
                 {
                     'olym': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/olym/planyourvisit/images/Mountains_Snow_BBaccus_web4.jpg?maxwidth=650&autorotate=false'}
                     }
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
                     }
                 },
                 {
                     'sajh': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/82329.jpg'}
                     }
                 },
                 {
                     'whmi': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Oregon_Trail_at_the_Whitman_Mission_in_Walla_Walla%2C_WA.jpg/1024px-The_Oregon_Trail_at_the_Whitman_Mission_in_Walla_Walla%2C_WA.jpg'}
                     }
                 },
                 {
                     'wing': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wing_Luke_Museum_-_looking_down_01.jpg/640px-Wing_Luke_Museum_-_looking_down_01.jpg'}
                     }
                 }
             ]
@@ -3242,57 +3242,57 @@ let thumbnails = {
             parks: [
                 {
                     'appa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://science.nature.nps.gov/im/units/netn/assets/images/East%20MT_SDF.JPG'}
                     }
                 },
                 {
                     'blue': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bluestone_National_Scenic_River.jpg/1024px-Bluestone_National_Scenic_River.jpg'}
                     }
                 },
                 {
                     'choh': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/78EDA4E3-1DD8-B71B-0B3A5CCE6AF82EEB/proxy/hires/'}
                     }
                 },
                 {
                     'cbpo': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
                     }
                 },
                 {
                     'cbgn': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/AB5DD0B4-1DD8-B71B-0B5942401DD0B7D1.jpg?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
                     'coal': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/679C4472-1DD8-B71B-0B30782C5F8ECFE9.jpg?width=2400&height=700&mode=crop&quality=90'}
                     }
                 },
                 {
                     'gari': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/81070.jpg'}
                     }
                 },
                 {
                     'hafe': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://www.nps.gov/hafe/learn/news/images/for-web-MillsH_HAFE_LoudonHeights_20141017_07Edit-JPEG.JPG'}
                     }
                 },
                 {
                     'jthg': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
                     }
                 },
                 {
                     'neri': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/New_River_Gorge_National_River.jpg/1024px-New_River_Gorge_National_River.jpg'}
                     }
                 },
                 {
                     'whee': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/340E6A22-1DD8-B71B-0B95A2C011E897DA.jpg?width=950&quality=90&mode=crop'}
                     }
                 }
             ]
@@ -3301,22 +3301,22 @@ let thumbnails = {
             parks: [
                 {
                     'apis': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Raspberry_Island_Apostle_Islands_National_Lakeshore.jpg/1024px-Raspberry_Island_Apostle_Islands_National_Lakeshore.jpg'}
                     }
                 },
                 {
                     'iatr': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ice_Age_National_Scenic_Trail_-_panoramio_%286%29.jpg/640px-Ice_Age_National_Scenic_Trail_-_panoramio_%286%29.jpg'}
                     }
                 },
                 {
                     'noco': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/North_Country_National_Scenic_Trail.jpg/1024px-North_Country_National_Scenic_Trail.jpg'}
                     }
                 },
                 {
                     'sacn': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://ridb.recreation.gov/images/82283.jpg'}
                     }
                 }
             ]
@@ -3325,52 +3325,52 @@ let thumbnails = {
             parks: [
                 {
                     'bica': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/bica/planyourvisit/images/Top_5_South_District.jpg?maxwidth=1200&maxheight=1200&autorotate=false'}
                     }
                 },
                 {
                     'cali': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
                     }
                 },
                 {
                     'deto': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://images.pexels.com/photos/189425/pexels-photo-189425.jpeg?w=940&h=650&auto=compress&cs=tinysrgb'}
                     }
                 },
                 {
                     'fola': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fort_Laramie_National_Historic_Site_Old_Bedlam_16-9-2014_13-37-40.JPG/1024px-Fort_Laramie_National_Historic_Site_Old_Bedlam_16-9-2014_13-37-40.JPG'}
                     }
                 },
                 {
                     'fobu': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://ridb.recreation.gov/images/81046.jpg'}
                     }
                 },
                 {
                     'grte': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://c1.staticflickr.com/7/6025/5906609315_c5131a3ea7_b.jpg'}
                     }
                 },
                 {
                     'mopi': {
-                        images: {url: 'https://drive.google.com/uc?id=1MRgswhNe1_sDMTXd8vXjDWPLfik91A55'}
+                        images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
                     }
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://www.nps.gov/cakr/learn/historyculture/images/beach-ridges.jpg?maxwidth=1200&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
                     }
                 },
                 {
                     'poex': {
-                        images: {url: 'https://drive.google.com/uc?id=1py4pLxFWAY71XOGVGMOkXJbTqK32w8DT'}
+                        images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
                     }
                 },
                 {
                     'yell': {
-                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6B538158-1DD8-B71B-0B4E0ACD12D0C2FF.jpg?width=465&quality=90&mode=crop'}
+                        images: {url: 'https://c1.staticflickr.com/3/2941/15266522767_f84d221308_b.jpg'}
                     }
                 }
             ]
@@ -3379,7 +3379,7 @@ let thumbnails = {
             parks: [
                 {
                     'wapa': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Artillery_-_War_in_the_Pacific_National_Historical_Park_%28Ga%27an_Point%29_-_DSC00882.JPG/640px-Artillery_-_War_in_the_Pacific_National_Historical_Park_%28Ga%27an_Point%29_-_DSC00882.JPG'}
                     }
                 }
             ]
@@ -3388,7 +3388,7 @@ let thumbnails = {
             parks: [
                 {
                     'saju': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/orgs/1207/images/san_juan_nhs_pr_nps_photo_6.jpg'}
                     }
                 }
             ]
@@ -3397,27 +3397,27 @@ let thumbnails = {
             parks: [
                 {
                     'buis': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Buck_Island_Reef_National_Monument_firecoral_jackfish.jpg'}
                     }
                 },
                 {
                     'chri': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CHRISTIANSTED_NATIONAL_HISTORIC_SITE.jpg/1024px-CHRISTIANSTED_NATIONAL_HISTORIC_SITE.jpg'}
                     }
                 },
                 {
                     'sari': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Salt-River-Bay-1.jpg/1024px-Salt-River-Bay-1.jpg'}
                     }
                 },
                 {
                     'vicr': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://www.nps.gov/orgs/1207/images/Trunk-Beach.jpg'}
                     }
                 },
                 {
                     'viis': {
-                        images: {url: 'https://www.nps.gov/cach/planyourvisit/images/DSC_5579.JPG?xwidth=150'}
+                        images: {url: 'https://c1.staticflickr.com/1/657/20979411432_3743404182_b.jpg'}
                     }
                 }
             ]

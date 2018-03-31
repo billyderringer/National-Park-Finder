@@ -27,7 +27,7 @@ class App extends Component {
                 parks: [],
                 thumbnail: ''
             },
-            location: 'OK',
+            location: 'WI',
             data: false
         }
 
