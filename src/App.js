@@ -27,7 +27,8 @@ class App extends Component {
                 parks: [],
                 thumbnail: ''
             },
-            location: 'WI',
+            location: 'AL',
+            usState:'Alabama',
             data: false
         }
 
@@ -51,30 +52,33 @@ class App extends Component {
     changeLocation(location) {
         this.fetchData(location)
     }
+    changeState(usState){
+        this.setState({usState:usState})
+    }
 
 
     render() {
         return (
             <div>
                 {this.state.data ?
-                    <div className="App container-fluid" style={{height: '100vh',minWidth:'100vw', paddingTop:'50px',
+                    <div className="App container-fluid" style={{height: '100vh',minWidth:'100vw', paddingTop:'30px',
                     background:'url('+splash+') 0% 0% / 100% 100% no-repeat',backgroundSize:'cover'}}>
+                        <div className="row">
+                            <div className="col-12 text-center" style={{marginBottom:'10px'}}>
+                                    <a href="http://www.billyderringer.com" target="_blank" style={{color: styles.colors.white,fontSize: '.8em',
+                                    textDecoration:'none'}}
+                                                 rel="noopener noreferrer">Back To Portfolio</a>
+                            </div>
+                        </div>
                         <div className="row">
                             <div className="col-10 offset-1" style={{
                                 backgroundColor: styles.colors.opaqueBlack,
-                                padding: '20px 5px 5px 20px', marginBottom: '10px'}}>
+                                 marginBottom: '10px'}}>
                                 <Content style={styles} serverData={this.state.serverData}
+                                         handleChangeState={this.changeState.bind(this)}
                                          handleChangeLocation={this.changeLocation.bind(this)}
-                                         location={this.state.location}/>
-                            </div>
-
-                        </div>
-
-                        <div className="row">
-                            <div className="col-12 text-center">
-                                <cite style={{color: styles.colors.white, fontSize: '.7em'}}>
-                                    Images by <a href="https://www.nps.gov" target="_blank"
-                                                 rel="noopener noreferrer">NPS.GOV</a></cite>
+                                         location={this.state.location}
+                                        usState={this.state.usState}/>
                             </div>
                         </div>
                     </div> : <div style={{
@@ -84,7 +88,7 @@ class App extends Component {
                         <div className="row">
                             <div className="col-12">
                                 <div className="text-center">
-                                    <CompassIcon style={{margin: '20px 0 10px'}} width="50px" height="50px"
+                                    <CompassIcon style={{marginBottom: '10px'}} width="50px" height="50px"
                                                  color={styles.colors.white}/>
                                     <h1 style={{fontVariant: 'small-caps', color: styles.colors.white, fontSize: '1.6em'}}>Find
                                         Your Adventure</h1>
@@ -97,7 +101,6 @@ class App extends Component {
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 }
             </div>

@@ -4,6 +4,8 @@ class StateSelector extends Component {
 
     handleChange({target}){
         this.props.handleChangeLocation(target.value)
+        let index = target.selectedIndex;
+        this.props.handleChangeState(target[index].text)
     }
 
     render() {
@@ -14,7 +16,6 @@ class StateSelector extends Component {
                         onChange={this.handleChange.bind(this)}
                         style={{backgroundColor:this.props.style.colors.opaqueWhite,
                             color:this.props.style.colors.darkGrey}}>
-                    <option label="States" value="STATES">All States</option>
                     <option label="Alabama" value="AL">Alabama</option>
                     <option label="Alaska" value="AK">Alaska</option>
                     <option label="Arizona" value="AZ">Arizona</option>

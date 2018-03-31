@@ -3,25 +3,9 @@ import Filters from "./filters";
 import ResultsContainer from './resultsContainer';
 import '../loader.css'
 
-let flex = {
-    mainFlex: {
-        flex: 1,
-        display: 'flex',
-        flexDirection: 'column'
-    },
-    contentFlex: {
-        flex: 1,
-        display: 'flex',
-        overflow: 'auto'
-    },
-    boxFlex: {
-        display: 'flex',
-        minHeight: 'min-content',
-    },
-    colFlex: {
-        height: '40vh'
-    }
-}
+//**Future feature - move all multiple states to variables
+let trailOfTears = 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?';
+let natchezTraceTrail = 'https://cdn.pixabay.com/photo/2016/03/12/04/01/creek-1251453_1280.jpg';
 
 let thumbnails = {
     states: [{
@@ -54,7 +38,7 @@ let thumbnails = {
                 },
                 {
                     'natt': {
-                        images: {url: 'https://www.nps.gov/natr/planyourvisit/images/Riding_the_NATT_200x285.jpg?width=150'}
+                        images: {url: natchezTraceTrail}
                     }
                 },
                 {
@@ -74,7 +58,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 },
                 {
@@ -366,7 +350,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge'}
+                        images: {url: trailOfTears}
                     }
                 }
             ]
@@ -820,7 +804,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 }
             ]
@@ -952,7 +936,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 }
             ]
@@ -1083,7 +1067,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 }
             ]
@@ -1536,7 +1520,7 @@ let thumbnails = {
                 },
                 {
                     'natt': {
-                        images: {url: 'https://www.nps.gov/natr/planyourvisit/images/Riding_the_NATT_200x285.jpg?width=150'}
+                        images: {url: natchezTraceTrail}
                     }
                 },
                 {
@@ -1610,7 +1594,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 },
                 {
@@ -2212,7 +2196,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 },
                 {
@@ -2339,7 +2323,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 },
                 {
@@ -2728,7 +2712,7 @@ let thumbnails = {
                 },
                 {
                     'natt': {
-                        images: {url: 'https://www.nps.gov/natr/planyourvisit/images/Riding_the_NATT_200x285.jpg?width=150'}
+                        images: {url: natchezTraceTrail}
                     }
                 },
                 {
@@ -2763,7 +2747,7 @@ let thumbnails = {
                 },
                 {
                     'trte': {
-                        images: {url: 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?'}
+                        images: {url: trailOfTears}
                     }
                 }
             ]
@@ -3429,29 +3413,38 @@ class Content extends Component {
 
     liftLocationChange({target}) {
         this.props.handleChangeLocation(target.value)
+        this.props.handleChangeState(target.label)
     }
 
     render() {
         return (
                 <div className="row">
                     <div className="col-3" style={{
-                        display: 'flex',
-                        justifyContent: 'center', alignItems: 'center'
+                        display: 'flex',justifyContent: 'center',alignItems: 'center',
+                        backgroundColor:this.props.style.colors.opaqueBlack
                     }}>
-                        <Filters flex={flex} onChange={this.liftLocationChange.bind(this)}
+                        <Filters onChange={this.liftLocationChange.bind(this)}
                                  handleChangeLocation={this.props.handleChangeLocation}
+                                 handleChangeState={this.props.handleChangeState}
                                  location={this.props.location}
                                  style={this.props.style}/>
                     </div>
                     <div className="col-9">
-                        <h2 style={{
-                            color: this.props.style.colors.white,
-                            fontSize: '1em',
-                            margin: '50px 20px 30px 0',
-                            float: 'right'
-                        }}>
-
-                            {this.props.serverData.parks && this.props.serverData.parks.length} Results Found</h2>
+                        <div className="row text-center">
+                            <div className="col-12">
+                                <h2 style={{color:this.props.style.colors.white,
+                                    fontSize: '1.5em',
+                                    marginTop: '20px'}}>{this.props.serverData.parks && this.props.usState}</h2>
+                            </div>
+                            <div className="col-12">
+                                <h2 style={{
+                                    color: this.props.style.colors.white,
+                                    fontSize: '1em',
+                                    marginBottom: '20px'
+                                }}>
+                                    {this.props.serverData.parks && this.props.serverData.parks.length} Results Found</h2>
+                            </div>
+                        </div>
 
                         < ResultsContainer thumbnail={thumbnails.states[0]} location={this.props.location}
                                            parks={this.props.serverData.parks} style={this.props.style}/>

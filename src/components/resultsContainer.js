@@ -6,9 +6,10 @@ class ResultsContainer extends Component {
     render() {
 
         return (
-            <div className="d-flex" style={{
+            <div style={{
                 display: 'flex', flexDirection: 'row', flexWrap: 'wrap',
-                justifyContent: 'center', overflowY: 'auto', height: '60vh', minWidth: '100%'
+                justifyContent: 'center', overflowY: 'auto', height: '60vh', minWidth: '100%',
+                marginBottom:'50px'
             }}>
                 {this.props.parks.map((park,i) =>
                             <Result name={park.fullName} key={i} type={park.designation} location={park.states}
