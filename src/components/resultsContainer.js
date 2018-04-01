@@ -9,7 +9,7 @@ class ResultsContainer extends Component {
             <div style={{
                 display: 'flex', flexDirection: 'row', flexWrap: 'wrap',
                 justifyContent: 'center', overflowY: 'auto', height: '60vh', minWidth: '100%',
-                marginBottom:'50px'
+                marginBottom:'30px'
             }}>
                 {this.props.parks.map((park,i) =>
                             <Result name={park.fullName} key={i} type={park.designation} location={park.states}

@@ -3420,8 +3420,7 @@ class Content extends Component {
         return (
                 <div className="row">
                     <div className="col-3" style={{
-                        display: 'flex',justifyContent: 'center',alignItems: 'center',
-                        backgroundColor:this.props.style.colors.opaqueBlack
+                        display: 'flex',justifyContent: 'center',alignItems: 'center'
                     }}>
                         <Filters onChange={this.liftLocationChange.bind(this)}
                                  handleChangeLocation={this.props.handleChangeLocation}
