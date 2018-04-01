@@ -4,7 +4,7 @@ import ResultsContainer from './resultsContainer';
 import '../loader.css'
 
 //**Future feature - move all multiple states to variables
-let trailOfTears = 'https://www.nps.gov/npgallery/GetAsset/5CB488EB-155D-451F-67AFDFC9DEBE3052/Thumb/XLarge?';
+let trailOfTears = 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Cherokee_Heritage_Center_-_Trail_of_Tears_Schild_1.jpg';
 let natchezTraceTrail = 'https://cdn.pixabay.com/photo/2016/03/12/04/01/creek-1251453_1280.jpg';
 
 let thumbnails = {
