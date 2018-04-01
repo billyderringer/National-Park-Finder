@@ -1,7 +1,63 @@
 import React, {Component} from 'react';
-import Filters from "./filters";
-import ResultsContainer from './resultsContainer';
+import Filters from "./Filters";
+import ResultsContainer from './ResultsContainer';
 import '../loader.css'
+
+let usStates = [
+    {code: 'AL',name: 'Alabama'},
+    {code: 'AK',name: 'Alaska'},
+    {code: 'AZ',name: 'Arizona'},
+    {code: 'AR',name: 'Arkansas'},
+    {code: 'CA',name: 'California'},
+    {code: 'CO',name: 'Colorado'},
+    {code: 'CT',name: 'Connecticut'},
+    {code: 'DE',name: 'Delaware'},
+    {code: 'FL',name: 'Florida'},
+    {code: 'GA',name: 'Georgia'},
+    {code: 'HI',name: 'Hawaii'},
+    {code: 'ID',name: 'Idaho'},
+    {code: 'IL',name: 'Illinois'},
+    {code: 'IN',name: 'Indiana'},
+    {code: 'IA',name: 'Iowa'},
+    {code: 'KS',name: 'Kansas'},
+    {code: 'KY',name: 'Kentucky'},
+    {code: 'LA',name: 'Louisiana'},
+    {code: 'ME',name: 'Maine'},
+    {code: 'MD',name: 'Maryland'},
+    {code: 'MA',name: 'Massachusetts'},
+    {code: 'MI',name: 'Michigan'},
+    {code: 'MN',name: 'Minnesota'},
+    {code: 'MS',name: 'Mississippi'},
+    {code: 'MO',name: 'Missouri'},
+    {code: 'MT',name: 'Montana'},
+    {code: 'NE',name: 'Nebraska'},
+    {code: 'NV',name: 'Nevada'},
+    {code: 'NH',name: 'New Hampshire'},
+    {code: 'NJ',name: 'New Jersey'},
+    {code: 'NM',name: 'New Mexico'},
+    {code: 'NY',name: 'New York'},
+    {code: 'NC',name: 'North Carolina'},
+    {code: 'ND',name: 'North Dakota'},
+    {code: 'OH',name: 'Ohio'},
+    {code: 'OK',name: 'Oklahoma'},
+    {code: 'OR',name: 'Oregon'},
+    {code: 'PA',name: 'Pennsylvania'},
+    {code: 'RI',name: 'Rhode Island'},
+    {code: 'SC',name: 'South Carolina'},
+    {code: 'SD',name: 'South Dakota'},
+    {code: 'TN',name: 'Tennessee'},
+    {code: 'TX',name: 'Texas'},
+    {code: 'UT',name: 'Utah'},
+    {code: 'VT',name: 'Vermont'},
+    {code: 'VA',name: 'Virginia'},
+    {code: 'WA',name: 'Washington'},
+    {code: 'WV',name: 'West Virginia'},
+    {code: 'WI',name: 'Wisconsin'},
+    {code: 'WY',name: 'Wyoming'},
+    {code: 'GU',name: 'Guam'},
+    {code: 'PR',name: 'Puerto Rico'},
+    {code: 'VI',name: 'Virgin Islands'}
+]
 
 //**Future feature - move all multiple states to variables
 let trailOfTears = 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Cherokee_Heritage_Center_-_Trail_of_Tears_Schild_1.jpg';
@@ -3419,34 +3475,49 @@ class Content extends Component {
     render() {
         return (
                 <div className="row">
-                    <div className="col-3" style={{
-                        display: 'flex',justifyContent: 'center',alignItems: 'center'
+                    <div className="col-3"
+                        style={{
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems: 'center'
                     }}>
                         <Filters onChange={this.liftLocationChange.bind(this)}
                                  handleChangeLocation={this.props.handleChangeLocation}
                                  handleChangeState={this.props.handleChangeState}
+                                 selectorData={usStates}
                                  location={this.props.location}
                                  style={this.props.style}/>
                     </div>
                     <div className="col-9">
                         <div className="row text-center">
                             <div className="col-12">
-                                <h2 style={{color:this.props.style.colors.white,
+                                <h2
+                                    style={{color:this.props.style.colors.white,
                                     fontSize: '1.5em',
-                                    marginTop: '20px'}}>{this.props.serverData.parks && this.props.usState}</h2>
+                                    marginTop: '20px'}}>
+                                    {this.props.serverData.parks &&
+                                    this.props.usState}
+                                </h2>
                             </div>
                             <div className="col-12">
-                                <h2 style={{
+                                <h2
+                                    style={{
                                     color: this.props.style.colors.white,
                                     fontSize: '1em',
                                     marginBottom: '20px'
                                 }}>
-                                    {this.props.serverData.parks && this.props.serverData.parks.length} Results Found</h2>
+                                    {this.props.serverData.parks &&
+                                    this.props.serverData.parks.length}
+                                    Results Found
+                                </h2>
                             </div>
                         </div>
 
-                        < ResultsContainer thumbnail={thumbnails.states[0]} location={this.props.location}
-                                           parks={this.props.serverData.parks} style={this.props.style}/>
+                        < ResultsContainer
+                            thumbnail={thumbnails.states[0]}
+                            location={this.props.location}
+                            parks={this.props.serverData.parks}
+                            style={this.props.style}/>
                     </div>
                 </div>
         );
