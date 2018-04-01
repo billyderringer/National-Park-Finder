@@ -8,7 +8,7 @@ class Result extends Component{
                 background:"linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)), url("+this.props.img+")0% 0% / auto 200px no-repeat",
                 backgroundSize:'100% 100%',backgroundRepeat:'no-repeat',backgroundPosition:'center bottom',position:'relative',margin:'10px',paddingTop:'30px'}}>
                 <div className="col-12 text-center" style={{color:this.props.style.colors.white}}>
-                    <h5 style={{fontSize:'1em'}}>{this.props.name}</h5>
+                    <h5 dangerouslySetInnerHTML={{__html: this.props.name}} style={{fontSize:'1em'}} />
                 </div>
                 <div className="col-12" style={{backgroundColor:this.props.style.colors.opaqueWhite,
                     color:this.props.style.colors.darkGrey,padding:'10px',
