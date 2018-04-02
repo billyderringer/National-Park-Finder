@@ -18,13 +18,15 @@ class ResultsContainer extends Component {
                 marginBottom:'30px'
             }}>
                 {this.props.parks.map((park,i) =>
-                            <Result
+                    <a href={park.url} target='_blank'>
+                        <Result
                                 name={park.fullName}
                                 key={i}
                                 type={park.designation}
                                 location={park.states}
                                 img={this.props.thumbnail[this.props.location].parks[i][park.parkCode].images.url}
                                 style={this.props.style}/>
+                    </a>
                 )}
             </div>
         );
