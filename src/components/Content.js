@@ -61,7 +61,7 @@ let usStates = [
 
 //**Future feature - move all multiple states to variables
 let trailOfTears = 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Cherokee_Heritage_Center_-_Trail_of_Tears_Schild_1.jpg';
-let natchezTraceTrail = 'https://cdn.pixabay.com/photo/2016/03/12/04/01/creek-1251453_1280.jpg';
+let natchezTraceTrail = 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop';
 
 let thumbnails = {
     states: [{
