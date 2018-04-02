@@ -3507,8 +3507,7 @@ class Content extends Component {
                                     marginBottom: '20px'
                                 }}>
                                     {this.props.serverData.parks &&
-                                    this.props.serverData.parks.length}
-                                    Results Found
+                                    this.props.serverData.parks.length} Results Found
                                 </h2>
                             </div>
                         </div>
