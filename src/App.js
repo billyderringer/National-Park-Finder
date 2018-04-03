@@ -152,7 +152,26 @@ class App extends Component {
                                             fontSize:'.8em'
                                         }}
                                     >
-                                       © Billy Derringer 2018
+                                        CHECK ME OUT -
+                                        <a href="https://github.com/billyderringer"
+                                           target="_blank"
+                                           style={{
+                                               color:styles.colors.white,
+                                               fontSize:'1.25em',
+                                               margin:'0 10px'
+                                           }}
+                                        >
+                                            <i className="fab fa-github" />
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/billy-derringer-704262114/"
+                                           target="_blank"
+                                           style={{
+                                               color:styles.colors.white,
+                                               fontSize:'1.25em'
+                                           }}
+                                        >
+                                            <i className="fab fa-linkedin" />
+                                        </a>
                                     </div>
                                 </div>
                             </footer>
