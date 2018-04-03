@@ -36,7 +36,7 @@ class App extends Component {
     componentDidMount() {
         setTimeout(() =>
                 this.fetchData(this.state.location)
-            , 1500)
+            , 2000)
     }
 
     fetchData(loc) {
@@ -184,7 +184,8 @@ class App extends Component {
                             display: 'flex',
                             justifyContent: 'center',
                             alignItems: 'center'
-                    }}>
+                        }}
+                    >
 
                         {/* Splash Loader */}
 
