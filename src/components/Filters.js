@@ -27,10 +27,10 @@ class Filters extends Component {
                     className="col-12 text-center">
                     <CompassIcon
                         style={{
-                            margin: '20px 0 10px',
+                            marginBottom: '20px',
                         }}
-                        width='50px'
-                        height='50px'
+                        width='80px'
+                        height='80px'
                         color={this.props.style.colors.white}
                     />
                     <h1

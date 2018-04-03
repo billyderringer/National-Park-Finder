@@ -3505,7 +3505,7 @@ class Content extends Component {
                             display: 'flex',
                             justifyContent: 'center',
                             alignItems: 'center',
-                            background:"linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)), "
+                            background:"linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), "
                             + "url("
                             + splash
                             +")0% 0% / auto auto no-repeat",
