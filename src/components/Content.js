@@ -3477,10 +3477,15 @@ class Content extends Component {
         return (
                 <div className="row">
                     <div className="col-12">
-                        <div className="row text-center">
+                        <div className="row text-center"
+                            style={{
+                                backgroundColor:this.props.style.colors.offBlack,
+                                marginBottom:'30px'
+                            }}
+                        >
                             <div className="col-12">
                                 <h2
-                                    style={{color:this.props.style.colors.darkGrey,
+                                    style={{color:this.props.style.colors.white,
                                         fontSize: '1.2em',
                                         margin: '20px 0 0'}}>
                                     {this.props.serverData.parks &&
@@ -3490,7 +3495,7 @@ class Content extends Component {
                             <div className="col-12">
                                 <h2
                                     style={{
-                                        color: this.props.style.colors.darkGrey,
+                                        color: this.props.style.colors.white,
                                         fontSize: '.8em',
                                         marginBottom: '20px'
                                     }}>
