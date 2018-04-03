@@ -155,6 +155,7 @@ class App extends Component {
                                         CHECK ME OUT -
                                         <a href="https://github.com/billyderringer"
                                            target="_blank"
+                                           rel="noopener noreferrer"
                                            style={{
                                                color:styles.colors.white,
                                                fontSize:'1.25em',
@@ -165,6 +166,7 @@ class App extends Component {
                                         </a>
                                         <a href="https://www.linkedin.com/in/billy-derringer-704262114/"
                                            target="_blank"
+                                           rel="noopener noreferrer"
                                            style={{
                                                color:styles.colors.white,
                                                fontSize:'1.25em'
