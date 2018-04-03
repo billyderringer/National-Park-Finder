@@ -13,12 +13,14 @@ class ResultsContainer extends Component {
                 flexWrap: 'wrap',
                 justifyContent: 'center',
                 overflowY: 'auto',
-                height: '60vh',
-                minWidth: '100%',
-                marginBottom:'30px'
+                height: '65vh',
+                minWidth: '100%'
             }}>
                 {this.props.parks.map((park,i) =>
-                    <a href={park.url} target='_blank'>
+                    <a href={park.url}
+                       target='_blank'
+                       style={{textDecoration:'none'}}
+                    >
                         <Result
                                 name={park.fullName}
                                 key={i}

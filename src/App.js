@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import CompassIcon from './components/CompassIcon';
-import splash from './assets/splash-bg-lg.jpg'
 import Content from "./components/Content";
 
 let styles = {
@@ -76,32 +75,52 @@ class App extends Component {
                         style={{
                             height: '100vh',
                             minWidth:'100vw',
-                            paddingTop:'30px',
-                            background:'url('+splash+') 0% 0% / 100% 100% no-repeat',
-                            backgroundSize:'cover'}}
+                            backgroundColor:styles.colors.white
+                        }}
                     >
-                        <div className="row">
-                            <div className="col-12 text-center"
-                                 style={{
-                                     marginBottom:'10px'
-                                 }}>
-                                    <a href="http://www.billyderringer.com"
-                                       target="_blank"
-                                       style={{
-                                            color: styles.colors.white,
-                                            fontSize: '.8em',
-                                            textDecoration:'none'
-                                       }}
-                                                 rel="noopener noreferrer">
-                                        Back To Portfolio
-                                    </a>
+                        <div className="row"
+                             style={{
+                                 backgroundColor:styles.colors.black,
+                                 height:'7vh',
+                                 display:'flex',
+                                 alignItems:'center'
+                             }}>
+                            <div className="col-1 text-right">
+                                <CompassIcon
+                                    width="30px"
+                                    height="30px"
+                                    color={styles.colors.lightBlue}
+                                    style={{
+                                        padding:'0'
+                                    }}
+                                />
+                            </div>
+                            <div className="col-3">
+                                <h3
+                                    style={{
+                                        color:styles.colors.white,
+                                        fontSize:'1em',
+                                        padding:'0'
+                                    }}
+                                >National Parks Finder</h3>
+                            </div>
+                            <div className="col-8 text-right">
+                                <a href="http://billyderringer.com"
+                                   style={{
+                                       color:styles.colors.white,
+                                       fontSize:'.8em',
+                                       textDecoration:'none',
+                                       marginRight:'30px'
+                                   }}
+                                >
+                                    Back to Portfolio
+                                </a>
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-10 offset-1"
+                            <div className="col-12"
                                  style={{
-                                    backgroundColor: styles.colors.opaqueBlack,
-                                    marginBottom: '10px'
+                                     marginBottom: '10px'
                                  }}>
                                 <Content
                                     style={styles}
@@ -112,6 +131,31 @@ class App extends Component {
                                     usState={this.state.usState}
                                 />
                             </div>
+                            <footer
+                                    style={{
+                                        width:'100vw',
+                                        position:'fixed',
+                                        bottom:'0',
+                                        backgroundColor:styles.colors.black
+                                    }}
+                            >
+                                <div className="row"
+                                    style={{
+                                        color:styles.colors.white,
+                                        height:'7vh',
+                                        display:'flex',
+                                        alignItems:'center'
+                                    }}
+                                >
+                                    <div className="col-12 text-center"
+                                        style={{
+                                            fontSize:'.8em'
+                                        }}
+                                    >
+                                       © Billy Derringer 2018
+                                    </div>
+                                </div>
+                            </footer>
                         </div>
                     </div> :
                     <div
@@ -120,6 +164,9 @@ class App extends Component {
                             justifyContent: 'center',
                             alignItems: 'center'
                     }}>
+
+                        {/* Splash Loader */}
+
                         <div className="row">
                             <div className="col-12">
                                 <div className="text-center">

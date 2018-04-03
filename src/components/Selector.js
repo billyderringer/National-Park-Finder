@@ -17,7 +17,7 @@ class StateSelector extends Component {
                     value={this.props.location}
                     onChange={this.handleChange.bind(this)}
                     style={{
-                        backgroundColor:this.props.style.colors.opaqueWhite,
+                        backgroundColor:this.props.style.colors.white,
                         color:this.props.style.colors.darkGrey
                     }}>
                     {this.props.selectorData.map((data,i)=>

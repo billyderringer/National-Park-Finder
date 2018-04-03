@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Filters from "./Filters";
 import ResultsContainer from './ResultsContainer';
+import splash from '../assets/denali.jpg'
 import '../loader.css'
 
 let usStates = [
@@ -3475,11 +3476,42 @@ class Content extends Component {
     render() {
         return (
                 <div className="row">
-                    <div className="col-3"
+                    <div className="col-12">
+                        <div className="row text-center">
+                            <div className="col-12">
+                                <h2
+                                    style={{color:this.props.style.colors.darkGrey,
+                                        fontSize: '1.2em',
+                                        margin: '20px 0 0'}}>
+                                    {this.props.serverData.parks &&
+                                    this.props.usState}
+                                </h2>
+                            </div>
+                            <div className="col-12">
+                                <h2
+                                    style={{
+                                        color: this.props.style.colors.darkGrey,
+                                        fontSize: '.8em',
+                                        marginBottom: '20px'
+                                    }}>
+                                    {this.props.serverData.parks &&
+                                    this.props.serverData.parks.length} Results Found
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-3 offset-1"
                         style={{
-                        display: 'flex',
-                        justifyContent: 'center',
-                        alignItems: 'center'
+                            display: 'flex',
+                            justifyContent: 'center',
+                            alignItems: 'center',
+                            background:"linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)), "
+                            + "url("
+                            + splash
+                            +")0% 0% / auto auto no-repeat",
+                            backgroundSize:'100% 100%',
+                            backgroundRepeat:'no-repeat',
+                            backgroundPosition:'center bottom'
                     }}>
                         <Filters onChange={this.liftLocationChange.bind(this)}
                                  handleChangeLocation={this.props.handleChangeLocation}
@@ -3488,30 +3520,7 @@ class Content extends Component {
                                  location={this.props.location}
                                  style={this.props.style}/>
                     </div>
-                    <div className="col-9">
-                        <div className="row text-center">
-                            <div className="col-12">
-                                <h2
-                                    style={{color:this.props.style.colors.white,
-                                    fontSize: '1.5em',
-                                    marginTop: '20px'}}>
-                                    {this.props.serverData.parks &&
-                                    this.props.usState}
-                                </h2>
-                            </div>
-                            <div className="col-12">
-                                <h2
-                                    style={{
-                                    color: this.props.style.colors.white,
-                                    fontSize: '1em',
-                                    marginBottom: '20px'
-                                }}>
-                                    {this.props.serverData.parks &&
-                                    this.props.serverData.parks.length} Results Found
-                                </h2>
-                            </div>
-                        </div>
-
+                    <div className="col-7">
                         < ResultsContainer
                             thumbnail={thumbnails.states[0]}
                             location={this.props.location}

@@ -20,7 +20,9 @@ class Filters extends Component {
                     flexWrap: 'wrap',
                     justifyContent: 'center',
                     overflowY: 'auto',
-                    width: '100%'}}>
+                    width: '100%'
+                }}
+            >
                 <div
                     className="col-12 text-center">
                     <CompassIcon
@@ -49,7 +51,7 @@ class Filters extends Component {
                 <div
                     className="col-12 d-flex align-items-center justify-content-center"
                     style={{
-                        marginTop:'30px'
+                        marginTop:'60px'
                     }}>
                     <StateSelector
                         style={this.props.style}
