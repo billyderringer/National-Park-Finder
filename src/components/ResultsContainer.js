@@ -18,12 +18,12 @@ class ResultsContainer extends Component {
             }}>
                 {this.props.parks.map((park,i) =>
                     <a href={park.url}
+                       key={i}
                        target='_blank'
                        style={{textDecoration:'none'}}
                     >
                         <Result
                                 name={park.fullName}
-                                key={i}
                                 type={park.designation}
                                 location={park.states}
                                 img={this.props.thumbnail[this.props.location].parks[i][park.parkCode].images.url}

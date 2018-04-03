@@ -3510,9 +3510,9 @@ class Content extends Component {
                     {/*Mobile filter & results*/}
                     <div className="col-12 hidden-lg-up flex-md-dn"
                          style={{
-                             height:'93vh',
-                             justifyContent: 'center',
-                             alignItems: 'center',
+                             height:'99vh',
+                             alignItems:'center',
+                             justifyContent:'center',
                              background:"linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), "
                              + "url("
                              + splashLg
