@@ -26,11 +26,7 @@ class Filters extends Component {
                 <div
                     className="col-12 text-center">
                     <CompassIcon
-                        style={{
-                            marginBottom: '20px',
-                        }}
-                        width='80px'
-                        height='80px'
+                        iconDimensions={this.props.iconDimensions}
                         color={this.props.style.colors.white}
                     />
                     <h1
@@ -51,7 +47,7 @@ class Filters extends Component {
                 <div
                     className="col-12 d-flex align-items-center justify-content-center"
                     style={{
-                        marginTop:'60px'
+                        margin:this.props.margin
                     }}>
                     <StateSelector
                         style={this.props.style}

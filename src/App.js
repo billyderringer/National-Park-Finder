@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import CompassIcon from './components/CompassIcon';
 import Content from "./components/Content";
+import './etc.css'
 
 let styles = {
     colors: {
@@ -78,17 +79,16 @@ class App extends Component {
                             backgroundColor:styles.colors.white
                         }}
                     >
-                        <div className="row"
+                        {/* desktop */}
+                        <div className="row hidden-md-dn flex-lg-up"
                              style={{
                                  backgroundColor:styles.colors.black,
-                                 height:'7vh',
-                                 display:'flex',
+                                 padding:'10px 0',
                                  alignItems:'center'
                              }}>
                             <div className="col-1 text-right">
                                 <CompassIcon
-                                    width="30px"
-                                    height="30px"
+                                    iconDimensions='30px'
                                     color={styles.colors.lightBlue}
                                     style={{
                                         padding:'0'
@@ -196,8 +196,7 @@ class App extends Component {
                                         style={{
                                             marginBottom: '10px'
                                         }}
-                                        width='50px'
-                                        height='50px'
+                                        iconDimensions='80px'
                                         color={styles.colors.white}
                                     />
                                     <h1

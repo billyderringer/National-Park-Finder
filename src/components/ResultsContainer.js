@@ -8,13 +8,13 @@ class ResultsContainer extends Component {
         return (
             <div
                 style={{
-                display: 'flex',
-                flexDirection: 'row',
-                flexWrap: 'wrap',
-                justifyContent: 'center',
-                overflowY: 'auto',
-                height: '65vh',
-                minWidth: '100%'
+                    display: 'flex',
+                    flexDirection: 'row',
+                    flexWrap: 'wrap',
+                    justifyContent: 'center',
+                    overflowY: 'auto',
+                    minWidth: '100%',
+                    height:this.props.height
             }}>
                 {this.props.parks.map((park,i) =>
                     <a href={park.url}

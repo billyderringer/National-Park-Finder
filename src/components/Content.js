@@ -2,7 +2,8 @@ import React, {Component} from 'react';
 import Filters from "./Filters";
 import ResultsContainer from './ResultsContainer';
 import splash from '../assets/denali.jpg'
-import '../loader.css'
+import splashLg from '../assets/denali-national-park.jpg'
+import '../etc.css'
 
 let usStates = [
     {code: 'AL',name: 'Alabama'},
@@ -3477,7 +3478,7 @@ class Content extends Component {
         return (
                 <div className="row">
                     <div className="col-12">
-                        <div className="row text-center"
+                        <div className="row text-center hidden-md-dn"
                             style={{
                                 backgroundColor:this.props.style.colors.offBlack,
                                 marginBottom:'30px'
@@ -3505,9 +3506,49 @@ class Content extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="col-3 offset-1"
+
+                    {/*Mobile filter & results*/}
+                    <div className="col-12 hidden-lg-up flex-md-dn"
+                         style={{
+                             height:'93vh',
+                             justifyContent: 'center',
+                             alignItems: 'center',
+                             background:"linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), "
+                             + "url("
+                             + splashLg
+                             +")0% 0% / auto auto no-repeat",
+                             backgroundSize:'100% 100%',
+                             backgroundRepeat:'no-repeat',
+                             backgroundPosition:'center bottom'
+                         }}>
+                        <div className="row">
+                            <div className="col-12">
+                                <Filters onChange={this.liftLocationChange.bind(this)}
+                                         handleChangeLocation={this.props.handleChangeLocation}
+                                         handleChangeState={this.props.handleChangeState}
+                                         selectorData={usStates}
+                                         location={this.props.location}
+                                         margin='0 0 30px 0'
+                                         iconDimensions='50px'
+                                         style={this.props.style}/>
+                            </div>
+
+                            <div className="col-12">
+                                < ResultsContainer
+                                    thumbnail={thumbnails.states[0]}
+                                    location={this.props.location}
+                                    parks={this.props.serverData.parks}
+                                    style={this.props.style}
+                                    height='50vh'
+                                />
+                            </div>
+                        </div>
+
+                    </div>
+
+                    {/*Desktop filter & results*/}
+                    <div className="col-3 offset-1 hidden-md-dn flex-lg-up"
                         style={{
-                            display: 'flex',
                             justifyContent: 'center',
                             alignItems: 'center',
                             background:"linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), "
@@ -3523,14 +3564,18 @@ class Content extends Component {
                                  handleChangeState={this.props.handleChangeState}
                                  selectorData={usStates}
                                  location={this.props.location}
+                                 iconDimensions='80px'
+                                 margin='50px 0 0 0'
                                  style={this.props.style}/>
                     </div>
-                    <div className="col-7">
+                    <div className="col-7  hidden-md-dn flex-lg-up">
                         < ResultsContainer
                             thumbnail={thumbnails.states[0]}
                             location={this.props.location}
                             parks={this.props.serverData.parks}
-                            style={this.props.style}/>
+                            style={this.props.style}
+                            height='65vh'
+                        />
                     </div>
                 </div>
         );

@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class CompassIcon extends Component {
     render() {
         return (
-            <svg style={this.props.style} xmlns="http://www.w3.org/2000/svg" width={this.props.width} height={this.props.height}
+            <svg style={this.props.style} xmlns="http://www.w3.org/2000/svg" width={this.props.iconDimensions} height={this.props.iconDimensions}
                  viewBox="0 0 193 193"
                  shapeRendering="geometricPrecision" textRendering="geometricPrecision"
                  imageRendering="optimizeQuality" fillRule="evenodd" clipRule="evenodd">
