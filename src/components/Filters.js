@@ -20,7 +20,8 @@ class Filters extends Component {
                     flexWrap: 'wrap',
                     justifyContent: 'center',
                     overflowY: 'auto',
-                    width: '100%'
+                    width: '100%',
+                    margin:'0'
                 }}
             >
                 <div
