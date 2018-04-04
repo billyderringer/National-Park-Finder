@@ -591,7 +591,7 @@ let thumbnails = {
             parks: [
                 {
                     'beol': {
-                        images: {url: 'https://www.nps.gov/articles/images/gri-photo-beol.jpg?maxwidth=650&autorotate=false'}
+                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bents_Old_Fort_NHS.jpg/1024px-Bents_Old_Fort_NHS.jpg'}
                     }
                 },
                 {
