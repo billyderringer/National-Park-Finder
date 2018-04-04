@@ -49,7 +49,7 @@ class Result extends Component{
                             margin:'0',
                             overflowWrap:'break-word'
                         }}>
-                        {this.props.location}
+                        {this.props.location.replace(/,/g, ', ')}
                     </h6>
                 </div>
             </div>
