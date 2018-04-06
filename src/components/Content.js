@@ -64,6 +64,7 @@ let usStates = [
 //**Future feature - move all multiple states to variables
 let trailOfTears = 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Cherokee_Heritage_Center_-_Trail_of_Tears_Schild_1.jpg';
 let natchezTraceTrail = 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop';
+let oregonHistoricTrail = 'https://c1.staticflickr.com/5/4432/36346405360_a1794cd7f2_b.jpg';
 
 let thumbnails = {
     states: [{
@@ -960,7 +961,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 },
                 {
@@ -1076,7 +1077,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 },
                 {
@@ -1632,7 +1633,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 },
                 {
@@ -1760,7 +1761,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 },
                 {
@@ -2440,7 +2441,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 }
             ]
@@ -3260,7 +3261,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 },
                 {
@@ -3402,7 +3403,7 @@ let thumbnails = {
                 },
                 {
                     'oreg': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg/635px-Oregon_National_Historic_Trail_in_Wyoming_%2815800827938%29.jpg'}
+                        images: {url: oregonHistoricTrail}
                     }
                 },
                 {
