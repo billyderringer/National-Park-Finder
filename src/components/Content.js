@@ -1530,7 +1530,7 @@ let thumbnails = {
                 },
                 {
                     'pipe': {
-                        images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Oracle_%28Rock_formation_in_Pipestone_National_Monument%29.jpg/337px-The_Oracle_%28Rock_formation_in_Pipestone_National_Monument%29.jpg'}
+                        images: {url: 'https://c1.staticflickr.com/6/5617/22019801078_8bd633bcfa_b.jpg'}
                     }
                 },
                 {
