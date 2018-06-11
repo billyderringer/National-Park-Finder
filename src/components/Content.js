@@ -600,11 +600,12 @@ let thumbnails = {
                         images: {url: 'https://c1.staticflickr.com/5/4556/26911336939_751b402e66_b.jpg'}
                     }
                 },
-                {
+                //Removed 6/11/18 due to api change
+                /*{
                     'cala': {
                         images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cache_la_Poudre_River_in_Poudre_Canyon_shallow_Area.JPG/640px-Cache_la_Poudre_River_in_Poudre_Canyon_shallow_Area.JPG'}
                     }
-                },
+                },*/
                 {
                     'cali': {
                         images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
@@ -1841,11 +1842,13 @@ let thumbnails = {
                         images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/313DF2F9-1DD8-B71B-0BE3927BB890F8BE.jpg?width=950&quality=90&mode=crop'}
                     }
                 },
+                //Removed 6/11/18 due to api change
+                /*
                 {
                     'dela': {
                         images: {url: 'https://www.nps.gov/common/uploads/grid_builder/nri/crop1_1/B76E43B8-1DD8-B71B-0B62C602B5B66C78.jpg?width=640&quality=90&mode=crop'}
                     }
-                },
+                },*/
                 {
                     'dewa': {
                         images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Delaware_Water_Gap_cliffs.jpg'}
@@ -1876,11 +1879,13 @@ let thumbnails = {
                         images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Morristown_National_Historical_MORR3176.jpg/1024px-Morristown_National_Historical_MORR3176.jpg'}
                     }
                 },
+                //Removed 6/11/18 due to api change
+                /*
                 {
                     'neje': {
                         images: {url: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/2009-11-04_20-View_north_from_the_top_of_the_Apple_Pie_Hill_fire_tower.jpg'}
                     }
-                },
+                },*/
                 {
                     'pine': {
                         images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/5FD52266-1DD8-B71B-0B30D414E542B2B0.jpg?width=950&quality=90&mode=crop'}
@@ -1960,11 +1965,13 @@ let thumbnails = {
                         images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6D0FFEC0-1DD8-B71B-0B635C4D22121B63.jpg?width=307&quality=90&mode=crop'}
                     }
                 },
+                //Removed 6/11/18 due to api change
+                /*
                 {
                     'norg': {
                         images: {url: 'https://c1.staticflickr.com/6/5832/19948702443_d2f0e3ae11_b.jpg'}
                     }
-                },
+                },*/
                 {
                     'olsp': {
                         images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
@@ -2478,11 +2485,13 @@ let thumbnails = {
                         images: {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Delaware_Canal_State_Park-Pennsylvania.jpg/1024px-Delaware_Canal_State_Park-Pennsylvania.jpg'}
                     }
                 },
+                //Removed 6/11/18 due to api change
+                /*
                 {
                     'dela': {
                         images: {url: 'https://www.nps.gov/common/uploads/grid_builder/nri/crop1_1/B76E43B8-1DD8-B71B-0B62C602B5B66C78.jpg?width=640&quality=90&mode=crop'}
                     }
-                },
+                },*/
                 {
                     'dewa': {
                         images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Delaware_Water_Gap_cliffs.jpg'}
