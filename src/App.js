@@ -105,7 +105,7 @@ class App extends Component {
                                 >National Parks Finder</h3>
                             </div>
                             <div className="col-8 text-right">
-                                <a href="http://billyderringer.com"
+                                <a href="https://billydportfolio.herokuapp.com/"
                                    style={{
                                        color:styles.colors.white,
                                        fontSize:'.8em',
