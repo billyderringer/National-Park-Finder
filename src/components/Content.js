@@ -720,6 +720,11 @@ let thumbnails = {
                     }
                 },
                 {
+                    'cbpo': {
+                        images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+                    }
+                },
+                {
                     'frst': {
                         images: {url: 'https://www.nps.gov/common/uploads/stories/images/nri/20160502/articles/79DD07C3-1DD8-B71B-0BEA6A790BA0A815/79DD07C3-1DD8-B71B-0BEA6A790BA0A815.JPG'}
                     }
