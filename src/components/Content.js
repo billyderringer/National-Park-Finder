@@ -719,6 +719,7 @@ let thumbnails = {
                         images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B33B9F02-1DD8-B71B-0B699BA0628152F2.JPG?width=307&quality=90&mode=crop'}
                     }
                 },
+                //Added 6/13/18 due to api changes
                 {
                     'cbpo': {
                         images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
@@ -996,7 +997,7 @@ let thumbnails = {
                 },
                 {
                     'pull': {
-                        images: {url: 'https://c1.staticflickr.com/5/4307/35909386626_3aa83f208d_b.jpg'}
+                        images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5CE76B01-1DD8-B71B-0BC5461B61DEF174.JPG?width=465&quality=90&mode=crop'}
                     }
                 },
                 {
