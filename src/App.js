@@ -61,6 +61,7 @@ class App extends Component {
     changeLocation(location) {
         this.fetchData(location)
     }
+
     changeState(usState){
         this.setState({
                 usState:usState
@@ -102,7 +103,8 @@ class App extends Component {
                                         fontSize:'1em',
                                         padding:'0'
                                     }}
-                                >National Parks Finder</h3>
+                                >National Parks Finder
+                                </h3>
                             </div>
                             <div className="col-8 text-right">
                                 <a href="https://billydportfolio.herokuapp.com/"
@@ -112,8 +114,7 @@ class App extends Component {
                                        textDecoration:'none',
                                        marginRight:'30px'
                                    }}
-                                >
-                                    Back to Portfolio
+                                >Back to Portfolio
                                 </a>
                             </div>
                         </div>
@@ -151,8 +152,7 @@ class App extends Component {
                                         style={{
                                             fontSize:'.8em'
                                         }}
-                                    >
-                                        CHECK ME OUT -
+                                    >CHECK ME OUT -
                                         <a href="https://github.com/billyderringer"
                                            target="_blank"
                                            rel="noopener noreferrer"
@@ -160,8 +160,7 @@ class App extends Component {
                                                color:styles.colors.white,
                                                fontSize:'1.25em',
                                                margin:'0 10px'
-                                           }}
-                                        >
+                                           }}>
                                             <i className="fab fa-github" />
                                         </a>
                                         <a href="https://www.linkedin.com/in/billy-derringer-704262114/"
@@ -170,8 +169,7 @@ class App extends Component {
                                            style={{
                                                color:styles.colors.white,
                                                fontSize:'1.25em'
-                                           }}
-                                        >
+                                           }}>
                                             <i className="fab fa-linkedin" />
                                         </a>
                                     </div>
