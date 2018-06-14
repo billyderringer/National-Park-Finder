@@ -107,7 +107,7 @@ class App extends Component {
                                 </h3>
                             </div>
                             <div className="col-8 text-right">
-                                <a href="https://billydportfolio.herokuapp.com/"
+                                <a href="https://billyderringer.github.io/National-Park-Finder/"
                                    style={{
                                        color:styles.colors.white,
                                        fontSize:'.8em',
