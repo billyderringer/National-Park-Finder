@@ -40,10 +40,12 @@ class App extends Component {
             , 2000)
     }
 
+    //connect to api using state code
     fetchData(loc) {
         fetch('https://developer.nps.gov/api/v1/parks?stateCode='
             + loc
-            + '&api_key=2f0ahKuwQeFp4tGam5Uf7i9PASXfiT1FoBa4BpLu')
+            + '&api_key='
+            + '5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7')//<---Insert your api key here <---//
             .then(res =>
             res.json())
             .then(dataRes => {
