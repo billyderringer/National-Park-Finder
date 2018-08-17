@@ -45,7 +45,8 @@ class App extends Component {
         fetch('https://developer.nps.gov/api/v1/parks?stateCode='
             + loc
             + '&api_key='
-            + '5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7')//<---Insert your api key here <---//
+            + '5EB2wQMEMBCeQWwKEw6PXxXQJaxfojCMarMIHbD7')//<--- Insert your api key here <---//
+            //---> (Please obtain your own key:) <---//
             .then(res =>
             res.json())
             .then(dataRes => {
