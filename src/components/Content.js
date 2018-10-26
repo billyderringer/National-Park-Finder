@@ -64,7 +64,7 @@ let usStates = [
 //**Future feature - move all multiple states to variables
 let trailOfTears = 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Cherokee_Heritage_Center_-_Trail_of_Tears_Schild_1.jpg';
 let natchezTraceTrail = 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop';
-let oregonHistoricTrail = 'https://c1.staticflickr.com/5/4432/36346405360_a1794cd7f2_b.jpg';
+let oregonHistoricTrail = 'https://www.nps.gov/common/uploads/banner_image/imr/homepage/2913AA9E-1DD8-B71B-0B61706B69EA1C7B.jpg?width=400&mode=crop&quality=90';
 
 let thumbnails = {
   states: [{
@@ -136,7 +136,7 @@ let thumbnails = {
       parks: [
         {
           'alag': {
-            images: {url: 'https://c1.staticflickr.com/5/4566/38263427842_18f49aaa5f_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/6D3DE1E6-1DD8-B71B-0BCCD1CA7363F2B8.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -245,7 +245,7 @@ let thumbnails = {
         },
         {
           'cagr': {
-            images: {url: 'https://c1.staticflickr.com/5/4677/28139489659_ffd6e223ef_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/573AC642-1DD8-B71B-0B27FC5424A2E375.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -260,7 +260,7 @@ let thumbnails = {
         },
         {
           'fobo': {
-            images: {url: 'https://c1.staticflickr.com/8/7037/6889272989_e023b15818_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/65F2B36B-1DD8-B71B-0B6BBBC7B53FA419.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -275,7 +275,7 @@ let thumbnails = {
         },
         {
           'pima': {
-            images: {url: 'https://c1.staticflickr.com/6/5017/5446227123_70fab45c7d_b.jpg'}
+            images: {url: 'https://www.nationalparks.org/sites/default/files/styles/wide_1x/public/Hohokam_Pima_National_Monument_0.jpg?itok=WD-3-79W'}
           }
         },
         {
@@ -295,17 +295,17 @@ let thumbnails = {
         },
         {
           'moca': {
-            images: {url: 'https://c2.staticflickr.com/4/3459/3356706138_505b411aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/E0BFDCEA-AF32-A14C-F9829A594EB69C57.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'nava': {
-            images: {url: 'https://c1.staticflickr.com/9/8300/7860621352_56747ce843_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/A65F1801-1DD8-B71B-0B5E6981541C7A4A.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'olsp': {
-            images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/59B3BB1A-1DD8-B71B-0B25F5277B955F3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -340,7 +340,7 @@ let thumbnails = {
         },
         {
           'tont': {
-            images: {url: 'https://c1.staticflickr.com/8/7427/8718380241_1dce4c9988_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/971ADCC6-1DD8-B71B-0BDF8807C22EE823.JPG?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -404,7 +404,7 @@ let thumbnails = {
         },
         {
           'wicl': {
-            images: {url: 'https://ridb.recreation.gov/images/82183.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5598FC45-1DD8-B71B-0BE28387003383CE.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -428,7 +428,7 @@ let thumbnails = {
         },
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -483,7 +483,7 @@ let thumbnails = {
         },
         {
           'juba': {
-            images: {url: 'https://c1.staticflickr.com/5/4390/36343078640_0722732d28_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/C47B3371-1DD8-B71B-0B69A36B805EAD75.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -513,7 +513,7 @@ let thumbnails = {
         },
         {
           'olsp': {
-            images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/59B3BB1A-1DD8-B71B-0B25F5277B955F3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -528,7 +528,7 @@ let thumbnails = {
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -573,7 +573,7 @@ let thumbnails = {
         },
         {
           'whis': {
-            images: {url: 'https://c1.staticflickr.com/1/81/218965142_37b0f8f8fe_z.jpg?zz=1p'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/D957ECEF-DFA7-7E62-2D71D6739A3DCE5E.jpeg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -597,7 +597,7 @@ let thumbnails = {
         },
         {
           'blca': {
-            images: {url: 'https://c1.staticflickr.com/5/4556/26911336939_751b402e66_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/41DEC438-1DD8-B71B-0BB27A016E404D9F.jpg?width=200&quality=90&mode=crop'}
           }
         },
         //Removed 6/11/18 due to api change
@@ -608,7 +608,7 @@ let thumbnails = {
                 },*/
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -618,12 +618,12 @@ let thumbnails = {
         },
         {
           'cure': {
-            images: {url: 'https://ridb.recreation.gov/images/80661.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/0ECAF663-1DD8-B71B-0BE48A6EDFF44328.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'dino': {
-            images: {url: 'https://ridb.recreation.gov/images/80832.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/02BBF56A-1DD8-B71B-0B55BEAA1C13EF54.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -648,12 +648,12 @@ let thumbnails = {
         },
         {
           'olsp': {
-            images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/59B3BB1A-1DD8-B71B-0B25F5277B955F3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -663,7 +663,7 @@ let thumbnails = {
         },
         {
           'sand': {
-            images: {url: 'https://ridb.recreation.gov/images/82337.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/187210BA-1DD8-B71B-0BA30A16D1318ECC.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -722,7 +722,7 @@ let thumbnails = {
         //Added 6/13/18 due to api changes
         {
           'cbpo': {
-            images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/25D26816-1DD8-B71B-0B015576361CCB88.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -766,7 +766,7 @@ let thumbnails = {
         },
         {
           'drto': {
-            images: {url: 'https://c1.staticflickr.com/3/2908/13966421530_fb95260d2b_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/B8DF2B97-1DD8-B71B-0BE883A0DFB8E593.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -800,7 +800,7 @@ let thumbnails = {
       parks: [
         {
           'ande': {
-            images: {url: 'https://ridb.recreation.gov/images/80548.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/5F5B3D44-1DD8-B71B-0B0B8AAFA5FA4318.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -840,7 +840,7 @@ let thumbnails = {
         },
         {
           'fopu': {
-            images: {url: 'https://ridb.recreation.gov/images/82896.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/5B382F9E-1DD8-B71B-0B9AB7BFA2F06D3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -904,7 +904,7 @@ let thumbnails = {
         },
         {
           'kaho': {
-            images: {url: 'https://c1.staticflickr.com/8/7647/26820498502_6eaa308757_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/C408F631-0523-A960-2373B652BD9E2D32.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -928,7 +928,7 @@ let thumbnails = {
       parks: [
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -938,7 +938,7 @@ let thumbnails = {
         },
         {
           'crmo': {
-            images: {url: 'https://c1.staticflickr.com/8/7601/16400385443_ccd2b2abf2_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/DF75DE91-94B2-E779-3AAD80072078B4AE.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -953,7 +953,7 @@ let thumbnails = {
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -973,7 +973,7 @@ let thumbnails = {
         },
         {
           'yell': {
-            images: {url: 'https://c1.staticflickr.com/3/2941/15266522767_f84d221308_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/D5121912-1DD8-B71B-0B74A845D32F5219.jpg?width=200&quality=90&mode=crop'}
           }
         }
       ]
@@ -982,7 +982,7 @@ let thumbnails = {
       parks: [
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&mode=crop'}
           }
         },
         {
@@ -992,7 +992,7 @@ let thumbnails = {
         },
         {
           'mopi': {
-            images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/27F994A0-1DD8-B71B-0B4C9C784F6AB5FC.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1040,12 +1040,12 @@ let thumbnails = {
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'mopi': {
-            images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/27F994A0-1DD8-B71B-0B4C9C784F6AB5FC.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -1059,7 +1059,7 @@ let thumbnails = {
         },
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -1069,12 +1069,12 @@ let thumbnails = {
         },
         {
           'fosc': {
-            images: {url: 'https://ridb.recreation.gov/images/81005.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/C1CE82B8-9555-BC03-7FD919F528BA1465.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1089,7 +1089,7 @@ let thumbnails = {
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -1099,7 +1099,7 @@ let thumbnails = {
         },
         {
           'tapr': {
-            images: {url: 'https://c1.staticflickr.com/6/5674/23160584795_09d8cafa59_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/3C6202DD-1DD8-B71B-0BA3127B825AD1CA.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -1201,7 +1201,7 @@ let thumbnails = {
         },
         {
           'kaww': {
-            images: {url: 'https://c1.staticflickr.com/9/8382/29189786752_1095752304_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/93899DE8-1DD8-B71B-0BD6960FC8349C68.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -1245,7 +1245,7 @@ let thumbnails = {
         },
         {
           'bawa': {
-            images: {url: 'https://ridb.recreation.gov/images/80645.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/6FBBC23A-1DD8-B71B-0BF23C2787ABE4A2.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -1265,7 +1265,7 @@ let thumbnails = {
         },
         {
           'cbpo': {
-            images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/25D26816-1DD8-B71B-0B015576361CCB88.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -1335,7 +1335,7 @@ let thumbnails = {
         },
         {
           'jthg': {
-            images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/108E2BE3-1DD8-B71B-0B5FC96A604AD291.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -1355,7 +1355,7 @@ let thumbnails = {
         },
         {
           'pohe': {
-            images: {url: 'https://c1.staticflickr.com/8/7487/27579412244_de8ea643b0_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/C76C6645-1DD8-B71B-0B46EE192A29411C.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -1379,7 +1379,7 @@ let thumbnails = {
       parks: [
         {
           'adam': {
-            images: {url: 'https://ridb.recreation.gov/images/80447.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/74583421-1DD8-B71B-0B604EB48E4D2DDC.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1513,12 +1513,12 @@ let thumbnails = {
         },
         {
           'rira': {
-            images: {url: 'https://ridb.recreation.gov/images/82244.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/C261487A-1DD8-B71B-0BAF377D882641EF.JPG?width=400&quality=90&mode=crop'}
           }
         },
         {
           'slbe': {
-            images: {url: 'https://c1.staticflickr.com/2/1081/4727264327_88982f1e13_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/mwr/homepage/8BD9032B-1DD8-B71B-0B1F0979DB9F4358.jpg?width=400&mode=crop&quality=90'}
           }
         }
       ]
@@ -1532,7 +1532,7 @@ let thumbnails = {
         },
         {
           'miss': {
-            images: {url: 'https://ridb.recreation.gov/images/81804.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5CC6FAD9-1DD8-B71B-0BBFB5DF9090FFC5.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -1542,12 +1542,12 @@ let thumbnails = {
         },
         {
           'pipe': {
-            images: {url: 'https://c1.staticflickr.com/6/5617/22019801078_8bd633bcfa_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/6DBC4C3E-1DD8-B71B-0B5208A12A34CB50.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'sacn': {
-            images: {url: 'https://ridb.recreation.gov/images/82283.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/8AA3E19B-1DD8-B71B-0BEFAAF04530D28E.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -1611,7 +1611,7 @@ let thumbnails = {
         },
         {
           'tupe': {
-            images: {url: 'https://ridb.recreation.gov/images/82491.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/F9061D16-1DD8-B71B-0BE541052AD9C8EC.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1625,7 +1625,7 @@ let thumbnails = {
       parks: [
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -1635,7 +1635,7 @@ let thumbnails = {
         },
         {
           'gwca': {
-            images: {url: 'https://ridb.recreation.gov/images/81096.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/C0F2158E-1DD8-B71B-0BCE986648648A9C.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1645,7 +1645,7 @@ let thumbnails = {
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1660,7 +1660,7 @@ let thumbnails = {
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -1719,7 +1719,7 @@ let thumbnails = {
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1734,7 +1734,7 @@ let thumbnails = {
         },
         {
           'yell': {
-            images: {url: 'https://c1.staticflickr.com/3/2941/15266522767_f84d221308_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/D5121912-1DD8-B71B-0B74A845D32F5219.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -1748,7 +1748,7 @@ let thumbnails = {
         },
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -1758,7 +1758,7 @@ let thumbnails = {
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1768,7 +1768,7 @@ let thumbnails = {
         },
         {
           'mopi': {
-            images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/27F994A0-1DD8-B71B-0B4C9C784F6AB5FC.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1783,7 +1783,7 @@ let thumbnails = {
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -1797,12 +1797,12 @@ let thumbnails = {
       parks: [
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
           'deva': {
-            images: {url: 'https://c1.staticflickr.com/2/1695/26116317146_e9de3c4a7e_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/9B65A85A-1DD8-B71B-0BDF4BF50595F57F.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -1817,12 +1817,12 @@ let thumbnails = {
         },
         {
           'olsp': {
-            images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/59B3BB1A-1DD8-B71B-0B25F5277B955F3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -1953,12 +1953,12 @@ let thumbnails = {
         },
         {
           'elca': {
-            images: {url: 'https://c1.staticflickr.com/5/4337/36695139496_59f9eee9cc_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/5715829D-1DD8-B71B-0B93BE740FF73808.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
           'elma': {
-            images: {url: 'https://c1.staticflickr.com/9/8353/28505428864_5fc920b628_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/C97A69A8-1DD8-B71B-0BFCF7F4527B3A5D.JPG?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -1973,7 +1973,7 @@ let thumbnails = {
         },
         {
           'gicl': {
-            images: {url: 'https://ridb.recreation.gov/images/81107.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/64FAA53C-1DD8-B71B-0BA27FA6E2059F98.JPG?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -1990,7 +1990,7 @@ let thumbnails = {
                 },*/
         {
           'olsp': {
-            images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/59B3BB1A-1DD8-B71B-0B25F5277B955F3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
@@ -2054,7 +2054,7 @@ let thumbnails = {
         },
         {
           'cbpo': {
-            images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/25D26816-1DD8-B71B-0B015576361CCB88.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2064,7 +2064,7 @@ let thumbnails = {
         },
         {
           'elro': {
-            images: {url: 'https://c1.staticflickr.com/9/8039/29798917231_4e336ed6e7_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/608C673E-1DD8-B71B-0BC2E4F35DF10FCE.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -2104,7 +2104,7 @@ let thumbnails = {
         },
         {
           'gois': {
-            images: {url: 'https://ridb.recreation.gov/images/81169.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/12B5AF69-E395-4886-4967D980FC960171.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2119,12 +2119,12 @@ let thumbnails = {
         },
         {
           'hofr': {
-            images: {url: 'https://c1.staticflickr.com/1/303/31335016600_cb679c826d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/18A020E9-1DD8-B71B-0B5EB30DFFADA9CE.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
           'hurv': {
-            images: {url: 'https://c1.staticflickr.com/9/8217/29271305384_e020d50f67_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/1B07CD05-C7C0-2986-E3C6CE68E812E07B.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2144,7 +2144,7 @@ let thumbnails = {
         },
         {
           'nifa': {
-            images: {url: 'https://c1.staticflickr.com/5/4084/4980927493_38dc298025_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/21563050-1DD8-B71B-0B4B0CA18C5A19DA.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -2154,7 +2154,7 @@ let thumbnails = {
         },
         {
           'sahi': {
-            images: {url: 'https://c2.staticflickr.com/4/3029/2553549279_0a32a9e88d_z.jpg?zz=1'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/A162A438-A3A0-4E1C-71D9CBFDFD65026E.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2169,7 +2169,7 @@ let thumbnails = {
         },
         {
           'stli': {
-            images: {url: 'http://res.freestockphotos.biz/pictures/11/11584-view-of-the-statue-of-liberty-monument-on-liberty-island-at-dusk-pv.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/E0C5BF11-1DD8-B71B-0B6B154FF0FDB084.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -2194,12 +2194,12 @@ let thumbnails = {
         },
         {
           'upde': {
-            images: {url: 'https://ridb.recreation.gov/images/82513.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/951EFECC-1DD8-B71B-0BEC1CD377B2E1A3.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
           'vama': {
-            images: {url: 'https://ridb.recreation.gov/images/82529.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/21FE27B7-1DD8-B71B-0B20AA2AABF1A027.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -2209,7 +2209,7 @@ let thumbnails = {
         },
         {
           'wori': {
-            images: {url: 'https://ridb.recreation.gov/images/82631.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/45AFD19E-EF12-8ADF-DD6D9D9A5BB8C527.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -2223,12 +2223,12 @@ let thumbnails = {
         },
         {
           'blrn': {
-            images: {url: 'https://c1.staticflickr.com/6/5322/8923646737_6a41313374_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/8308CCE3-1DD8-B71B-0BED9496A3356309.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'blri': {
-            images: {url: 'https://c1.staticflickr.com/3/2041/1715794688_b9d5c9fa6d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/190B1C45-1DD8-B71B-0B80D570F4CF3FBA.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2248,7 +2248,7 @@ let thumbnails = {
         },
         {
           'fora': {
-            images: {url: 'https://ridb.recreation.gov/images/81003.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/BB3A8CF6-1DD8-B71B-0BD692C3969415DA.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2273,7 +2273,7 @@ let thumbnails = {
         },
         {
           'ovvi': {
-            images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2297,12 +2297,12 @@ let thumbnails = {
         },
         {
           'knri': {
-            images: {url: 'https://ridb.recreation.gov/images/81620.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/2ED31F3F-1DD8-B71B-0B5667A7A5165091.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2312,7 +2312,7 @@ let thumbnails = {
         },
         {
           'thro': {
-            images: {url: 'https://c1.staticflickr.com/5/4469/37099170214_1bf43c2e75_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/AF3CBD88-1DD8-B71B-0B6FF579FD650D86.jpg?width=307&quality=90&mode=crop'}
           }
         }
       ]
@@ -2356,7 +2356,7 @@ let thumbnails = {
         },
         {
           'jaga': {
-            images: {url: 'https://c1.staticflickr.com/9/8755/29552083810_abf360e66f_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/4ADA4138-1DD8-B71B-0B24F8439263DBC5.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -2376,7 +2376,7 @@ let thumbnails = {
         },
         {
           'wiho': {
-            images: {url: 'https://c1.staticflickr.com/4/3937/33750102615_a21663a78a_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/ED75728C-1DD8-B71B-0B444F3DCFE0D051.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -2385,7 +2385,7 @@ let thumbnails = {
       parks: [
         {
           'chic': {
-            images: {url: 'https://c1.staticflickr.com/5/4056/4532287292_3c4afdb126_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/9F9A9193-1DD8-B71B-0BCF958C0D6F5F54.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2419,7 +2419,7 @@ let thumbnails = {
       parks: [
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -2439,12 +2439,12 @@ let thumbnails = {
         },
         {
           'joda': {
-            images: {url: 'https://c1.staticflickr.com/2/1536/25164637684_e67b03e339_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/53E53F43-1DD8-B71B-0BDCA4868ADAD2E5.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2488,7 +2488,7 @@ let thumbnails = {
         },
         {
           'cbpo': {
-            images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/25D26816-1DD8-B71B-0B015576361CCB88.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2570,7 +2570,7 @@ let thumbnails = {
         },
         {
           'jthg': {
-            images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/108E2BE3-1DD8-B71B-0B5FC96A604AD291.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -2590,7 +2590,7 @@ let thumbnails = {
         },
         {
           'pohe': {
-            images: {url: 'https://c1.staticflickr.com/8/7487/27579412244_de8ea643b0_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ncr/crop16_9/C76C6645-1DD8-B71B-0B46EE192A29411C.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2615,7 +2615,7 @@ let thumbnails = {
         },
         {
           'upde': {
-            images: {url: 'https://ridb.recreation.gov/images/82513.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/951EFECC-1DD8-B71B-0BEC1CD377B2E1A3.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -2644,7 +2644,7 @@ let thumbnails = {
         },
         {
           'rowi': {
-            images: {url: 'https://ridb.recreation.gov/images/82255.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/F805BA2F-1DD8-B71B-0BE32152357DD3AF.png'}
           }
         },
         {
@@ -2698,7 +2698,7 @@ let thumbnails = {
         },
         {
           'ovvi': {
-            images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2708,7 +2708,7 @@ let thumbnails = {
         },
         {
           'soca': {
-            images: {url: 'https://ridb.recreation.gov/images/82396.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/4B233B8F-1DD8-B71B-0B9DD8548808BDB8.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -2722,12 +2722,12 @@ let thumbnails = {
         },
         {
           'jeca': {
-            images: {url: 'https://ridb.recreation.gov/images/81510.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/92840DFB-1DD8-B71B-0B20411456CFF671.JPG?width=307&quality=90&mode=crop'}
           }
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2756,7 +2756,7 @@ let thumbnails = {
       parks: [
         {
           'anjo': {
-            images: {url: 'https://ridb.recreation.gov/images/80556.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/A44552C7-1DD8-B71B-0BF6F9451BAB6647.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
@@ -2806,12 +2806,12 @@ let thumbnails = {
         },
         {
           'obed': {
-            images: {url: 'https://ridb.recreation.gov/images/81996.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/15F9CF5D-1DD8-B71B-0BD3EB7D6AFA3BBD.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'ovvi': {
-            images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2826,7 +2826,7 @@ let thumbnails = {
         },
         {
           'tecw': {
-            images: {url: 'https://ridb.recreation.gov/images/82424.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/0C79B1AC-1DD8-B71B-0BE50D29D241817F.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2840,7 +2840,7 @@ let thumbnails = {
       parks: [
         {
           'alfl': {
-            images: {url: 'https://c1.staticflickr.com/2/1716/25877869026_f02bd9167c_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/C0B02697-1DD8-B71B-0BD561B5D45AAC13.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2870,7 +2870,7 @@ let thumbnails = {
         },
         {
           'elca': {
-            images: {url: 'https://c1.staticflickr.com/5/4337/36695139496_59f9eee9cc_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/5715829D-1DD8-B71B-0B93BE740FF73808.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2880,12 +2880,12 @@ let thumbnails = {
         },
         {
           'gumo': {
-            images: {url: 'https://c1.staticflickr.com/5/4572/37710649384_dab55ec2db_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/E4D74EA2-D91E-4536-4315832C748F3782.jpg?width=307&quality=90&mode=crop'}
           }
         },
         {
           'lamr': {
-            images: {url: 'https://ridb.recreation.gov/images/81643.jpg?1516838400054'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/7E55A449-1DD8-B71B-0B6BF9BE3064FDD3.JPG?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -2910,12 +2910,12 @@ let thumbnails = {
         },
         {
           'saan': {
-            images: {url: 'https://ridb.recreation.gov/images/82317.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/680FA4FC-1DD8-B71B-0B6A3662E17B11CC.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
           'waco': {
-            images: {url: 'https://ridb.recreation.gov/images/82553.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/6680B17D-1DD8-B71B-0BF79B3817E9FD33.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -2934,7 +2934,7 @@ let thumbnails = {
         },
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -2954,7 +2954,7 @@ let thumbnails = {
         },
         {
           'dino': {
-            images: {url: 'https://ridb.recreation.gov/images/80832.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/02BBF56A-1DD8-B71B-0B55BEAA1C13EF54.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2974,7 +2974,7 @@ let thumbnails = {
         },
         {
           'mopi': {
-            images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/27F994A0-1DD8-B71B-0B4C9C784F6AB5FC.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -2984,17 +2984,17 @@ let thumbnails = {
         },
         {
           'olsp': {
-            images: {url: 'https://c1.staticflickr.com/5/4429/36692061386_74427d316d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/59B3BB1A-1DD8-B71B-0B25F5277B955F3D.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'rabr': {
-            images: {url: 'https://c1.staticflickr.com/1/800/40906391281_b72159ed11_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/8E65D85E-1DD8-B71B-0B8EF7F57FC89CD1.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -3004,7 +3004,7 @@ let thumbnails = {
         },
         {
           'zion': {
-            images: {url: 'https://ridb.recreation.gov/images/82797.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/3F936BF4-1DD8-B71B-0B335232937DB252.jpg?width=307&quality=90&mode=crop'}
           }
         }
       ]
@@ -3023,7 +3023,7 @@ let thumbnails = {
         },
         {
           'mabi': {
-            images: {url: 'https://c1.staticflickr.com/1/20/69165512_d8702e969b_z.jpg?zz=1'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/B8D34C0F-B92D-A3C4-2F60CB6C77A5E388.jpg?width=465&quality=90&mode=crop'}
           }
         }
       ]
@@ -3052,7 +3052,7 @@ let thumbnails = {
         },
         {
           'blri': {
-            images: {url: 'https://c1.staticflickr.com/3/2041/1715794688_b9d5c9fa6d_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/190B1C45-1DD8-B71B-0B80D570F4CF3FBA.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -3077,7 +3077,7 @@ let thumbnails = {
         },
         {
           'cbpo': {
-            images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/25D26816-1DD8-B71B-0B015576361CCB88.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -3107,7 +3107,7 @@ let thumbnails = {
         },
         {
           'fomr': {
-            images: {url: 'https://ridb.recreation.gov/images/80981.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/6F3C3723-1DD8-B71B-0B1B88758B76E468.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -3147,7 +3147,7 @@ let thumbnails = {
         },
         {
           'jthg': {
-            images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/108E2BE3-1DD8-B71B-0B5FC96A604AD291.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -3162,12 +3162,12 @@ let thumbnails = {
         },
         {
           'ovvi': {
-            images: {url: 'https://ridb.recreation.gov/images/82056.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'pete': {
-            images: {url: 'https://c2.staticflickr.com/4/3213/2729330513_475eb337c3.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/42D12E50-1DD8-B71B-0BFF32690A4475B8.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -3187,7 +3187,7 @@ let thumbnails = {
         },
         {
           'shen': {
-            images: {url: 'https://c1.staticflickr.com/4/3710/9600060812_4614bc4e68_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/1EDFEC7E-C188-022B-A57C12A5BB2858A5.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -3241,12 +3241,12 @@ let thumbnails = {
         },
         {
           'laro': {
-            images: {url: 'https://ridb.recreation.gov/images/81662.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/A2DE7DC1-1DD8-B71B-0B6321848C7B5621.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'lecl': {
-            images: {url: 'https://c1.staticflickr.com/5/4430/36572261342_54377de201_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -3291,7 +3291,7 @@ let thumbnails = {
         },
         {
           'sajh': {
-            images: {url: 'https://ridb.recreation.gov/images/82329.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/pwr/crop16_9/84F29B34-1DD8-B71B-0BBD7A0A85368870.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -3325,7 +3325,7 @@ let thumbnails = {
         },
         {
           'cbpo': {
-            images: {url: 'https://c1.staticflickr.com/5/4091/5098396960_eaca250aa5_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/25D26816-1DD8-B71B-0B015576361CCB88.jpg?width=465&quality=90&mode=crop'}
           }
         },
         {
@@ -3340,7 +3340,7 @@ let thumbnails = {
         },
         {
           'gari': {
-            images: {url: 'https://ridb.recreation.gov/images/81070.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/EFF2609D-1DD8-B71B-0BF5F26233BD7AA6.jpg?width=950&quality=90&mode=crop'}
           }
         },
         {
@@ -3350,7 +3350,7 @@ let thumbnails = {
         },
         {
           'jthg': {
-            images: {url: 'https://c1.staticflickr.com/1/689/21469871958_b1d9b42f07_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/banner_image/ner/homepage/108E2BE3-1DD8-B71B-0B5FC96A604AD291.jpg?width=400&mode=crop&quality=90'}
           }
         },
         {
@@ -3384,7 +3384,7 @@ let thumbnails = {
         },
         {
           'sacn': {
-            images: {url: 'https://ridb.recreation.gov/images/82283.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/8AA3E19B-1DD8-B71B-0BEFAAF04530D28E.jpg?width=307&quality=90&mode=crop'}
           }
         }
       ]
@@ -3398,7 +3398,7 @@ let thumbnails = {
         },
         {
           'cali': {
-            images: {url: 'https://ridb.recreation.gov/images/80246.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/444B0A03-1DD8-B71B-0B7367C8996E0101.jpg?width=300&quality=90&mode=crop'}
           }
         },
         {
@@ -3413,17 +3413,17 @@ let thumbnails = {
         },
         {
           'fobu': {
-            images: {url: 'https://ridb.recreation.gov/images/81046.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/89D74377-1DD8-B71B-0B2C2B70EDC7D6CE.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'grte': {
-            images: {url: 'https://c1.staticflickr.com/7/6025/5906609315_c5131a3ea7_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/83A578AD-1DD8-B71B-0BC8060EC0279585.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
           'mopi': {
-            images: {url: 'https://ridb.recreation.gov/images/81833.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/27F994A0-1DD8-B71B-0B4C9C784F6AB5FC.jpg?width=400&quality=90&mode=crop'}
           }
         },
         {
@@ -3433,12 +3433,12 @@ let thumbnails = {
         },
         {
           'poex': {
-            images: {url: 'https://ridb.recreation.gov/images/82168.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/2A3ACE02-1DD8-B71B-0B6123F9BFA0F095.jpg?width=200&quality=90&mode=crop'}
           }
         },
         {
           'yell': {
-            images: {url: 'https://c1.staticflickr.com/3/2941/15266522767_f84d221308_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/D5121912-1DD8-B71B-0B74A845D32F5219.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
@@ -3485,7 +3485,7 @@ let thumbnails = {
         },
         {
           'viis': {
-            images: {url: 'https://c1.staticflickr.com/1/657/20979411432_3743404182_b.jpg'}
+            images: {url: 'https://www.nps.gov/common/uploads/grid_builder/akr/crop16_9/3416E5DA-1DD8-B71B-0B45C6923BB30111.jpg?width=400&quality=90&mode=crop'}
           }
         }
       ]
