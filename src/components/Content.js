@@ -1569,11 +1569,12 @@ let thumbnails = {
             images: {url: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Gulf_Islands_NS.jpg'}
           }
         },
-        {
+        //Removed 12/02/18 due to api change
+        /*{
           'memy': {
             images: {url: 'https://media.npr.org/assets/img/2013/08/12/eversbaldwinmeredith_sq-b84b02d98df0297a0a89b579697aa2ec821a263d-s800-c85.jpg'}
           }
-        },
+        },*/
         {
           'mide': {
             images: {url: 'https://toxics.usgs.gov/photo_gallery/photos/hypoxia/missdelta_etm_2001288_lrg_crop_m.jpg'}
